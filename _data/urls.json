@@ -1,32 +1,32 @@
 [
   {
-    "text": "Home",
+    "text": "Hjem",
     "url": "/",
     "icon": "fa-home",
     "layout": "post"
   },
   {
-    "text": "About",
+    "text": "Fagutvalget",
     "url": "/about/",
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
+    "text": "Kursevaluering",
     "url": "/projects",
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
+    "text": "Bokskap",
     "url": "/#",
     "icon": "fa-graduation-cap",
   },
   {
-    "text": "Github",
+    "text": "Kollokvierom",
     "url": "/#",
     "icon": "fa-github"
   },
   {
-    "text": "XML Feed",
+    "text": "Kontakt oss",
     "url": "/feed.xml",
     "icon": "fa-feed",
     "target": _blank
