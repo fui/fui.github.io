@@ -81,7 +81,7 @@ li.current-menu-item:before {
     position: absolute;
     left: 9px;
     vertical-align: middle;
-    background: rgba(0, 0, 0, 0.3);
+    background: #000000;
 }
 .menu ul li a {
     font-size: 15px;
