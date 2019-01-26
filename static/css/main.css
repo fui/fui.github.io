@@ -80,7 +80,7 @@ li.current-menu-item:before {
     position: absolute;
     left: 9px;
     vertical-align: middle;
-    background: #800020;
+    background: #B8CA28;
 }
 .menu ul li a {
     font-size: 15px;
@@ -95,7 +95,7 @@ li.current-menu-item:before {
     font-size: 26px;
     margin-bottom: 32px;
     margin-top: 5px;
-    color: #800020;
+    color: #01c87b;
     font-weight: 300;
 }
 h2.blog-title-pro{color: #fff;}
