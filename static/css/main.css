@@ -71,7 +71,7 @@ p.info a {
 }
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: #007D72;
+    background: rgba(0, 0, 0, 0.3);;
 }
 li.current-menu-item:before {
     content: "";
