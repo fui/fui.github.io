@@ -6,8 +6,8 @@
 }
 .full{ font-size: 16px; }
 .logo-img {
-    width: 100px;
-    height: 100px;
+    width: 56px;
+    height: 56px;
     margin: 0 auto;
 }
 .logo-turner {
@@ -70,7 +70,7 @@ p.info a {
 }
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: #800020;
+    background: #007D72;
 }
 li.current-menu-item:before {
     content: "";
