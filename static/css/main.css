@@ -1,6 +1,6 @@
 .main.outer{padding-top: 50px;}
 .header-panel.shadow-z-2 {
-    background-color: # v;
+    background-color: #800020;
     padding: 50px 0 15px 0;
     width: 100%;
 }
@@ -62,7 +62,7 @@ p.info a {
 }
 .icon:hover {
     color: rgba(255, 255, 255, 0.63);
-    background: #000000;
+    background: #800020;
 }
 .menu ul li {
     list-style: none;
@@ -98,7 +98,7 @@ li.current-menu-item:before {
     color: #01c87b;
     font-weight: 300;
 }
-h2.blog-title-pro{color: #0000000;}
+h2.blog-title-pro{color: #fff;}
 h2.blog-title-pro:after {
     content: "";
     display: block;
