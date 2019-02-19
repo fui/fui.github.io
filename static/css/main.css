@@ -6,8 +6,8 @@
 }
 .full{ font-size: 16px; }
 .logo-img {
-    width: 56px;
-    height: 56px;
+    width: 20%;
+    height: auto;
     margin: 0 auto;
     margin-right: 10px;
 }
@@ -27,6 +27,7 @@
     margin-right: 10px;
 }
 .row-details {
+    width: 60%;
     display: inline-block;
     vertical-align: middle;
     color: #fff;
