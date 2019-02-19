@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30a44778-c2ed-41af-b5d3-34484e111fbb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_data/urls.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/urls.json" afterDir="false" />
-    </list>
+    <list default="true" id="30a44778-c2ed-41af-b5d3-34484e111fbb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/urls.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+            <state relative-caret-position="390">
+              <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -324,12 +322,12 @@
       <option name="presentableId" value="Default" />
       <updated>1545323777755</updated>
       <workItem from="1545323779652" duration="1147000" />
-      <workItem from="1548515540422" duration="9884000" />
+      <workItem from="1548515540422" duration="9950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11031000" />
+    <option name="totallyTimeSpent" value="11097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="802" extended-state="0" />
@@ -634,8 +632,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/urls.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        <state relative-caret-position="390">
+          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
         </state>
       </provider>
     </entry>
