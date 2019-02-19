@@ -1,11 +1,16 @@
 ---
 layout: page
-title: About
+title: Om FUI
 permalink: /about/
+modeline: " vim: set spl=nb: "
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Om FUI
+Fagutvalget  ved Institutt for informatikk (FUI) er informatikkstudentenes eget organ, og skal fungere som et bindeledd mellom studentene, instituttet og universitetet forøvrig. FUI har mellom 7 og 17 medlemmer, og møtes som regel en gang i måneden. Medlemmene velges på et valgallmøte for instituttets studenter i begynnelsen av hvert semester.
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
+Fagutvalget har noen faste oppgaver og arbeider ellers med saker studentene ved instituttet ønsker å ta opp. Blant de faste oppgavene er plassfordeling på lesesalene, administrasjon av bokskap, kursevaluering på nett og representasjon i styrer og utvalg.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+- Fagutvalget ved Institutt for informatikk jobber til enhver tid med å forbedre studiehverdagen til studentene ved instituttet.
+- Kontakt oss hvis du har problemer i forbindelse med fag eller studier slik som urettferdige frister for obligatoriske oppgaver, dårlige kurs, eller kun detaljer rundt ved kurs som du ønsker å forbedre. Vi behandler alle saker anonymt med mindre du ønsker noe annet.
+- Vi har medlemmer i de fleste styrer og utvalg, inkludert Undervisningsutvalget og Instituttstyret.
+- Gjennom faste møter med undervisningsleder på instituttet
