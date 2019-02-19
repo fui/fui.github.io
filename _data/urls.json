@@ -1,9 +1,8 @@
 [
   {
-    "text": "Hjem",
-    "url": "/",
-    "icon": "fa-home",
-    "layout": "post"
+    "text": "Kursvaluering",
+    "url": "/projects",
+    "icon": "fa-desktop"
   },
   {
     "text": "Fagutvalget",
@@ -11,17 +10,22 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Kursvaluering",
-    "url": "/projects",
-    "icon": "fa-desktop"
-  },
-  {
     "text": "Bokskap",
     "url": "/#",
     "icon": "fa-graduation-cap",
   },
   {
-    "text": "Kollokvierom",
+    "text": "Styremedlemmer",
+    "url": "/#",
+    "icon": "fa-github"
+  },
+  {
+    "text": "Representanter",
+    "url": "/#",
+    "icon": "fa-github"
+  },
+  {
+    "text": "Vedtekter",
     "url": "/#",
     "icon": "fa-github"
   },
