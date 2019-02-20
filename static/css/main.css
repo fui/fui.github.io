@@ -43,7 +43,8 @@
         display: none;
     }
     .menu {
-        display: none;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 
