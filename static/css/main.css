@@ -32,6 +32,7 @@
     display: inline-block;
     vertical-align: middle;
     color: #fff;
+    font-weight: bold;
 }
 p.info {
     color: #fff;
