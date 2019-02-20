@@ -1,7 +1,7 @@
 <div class="header-panel shadow-z-2">
       <div class="container">
         <div class="row">
-          <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="col-md-3 col-xs-12">
             <div class="row-picture">
               <img id="about" class="logo-img" src="../static/img/FUI-sort.png" height="75px" width="75px">
             </div>
@@ -16,24 +16,6 @@
               </button>
             </div>
           </div>
-          <div class="row">
-            {% if site.allowsearch ==  true %}
-            {% endif %}
-            </div>
-            <p class="info">
-              {% if page.date %}
-                <span class="time">{{ page.date | date_to_string }}</span>
-              {% endif %}
-              {% if page.categories.size > 0 %}
-                <span class="categories">
-                  &raquo; 
-                  {% for category in page.categories %}
-                    <a href="{{ site.baseurl }}/category/{{ category }}">{{ category }}</a>
-                    {% if forloop.last == false %}, {% endif %}
-                  {% endfor %}
-                </span>
-              {% endif %}
-            </p>
           </div>
         </div>
       </div>
