@@ -41,7 +41,6 @@
 .menu-img {
     right: 10%;
     position: fixed;
-    display: none;
     z-index: 100;
 }
 
