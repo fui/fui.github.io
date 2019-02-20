@@ -50,7 +50,7 @@
         display: none;
     }
     .menu {
-        display: none;
+        display: block;
     }
     .menu-img {
         display: block;
