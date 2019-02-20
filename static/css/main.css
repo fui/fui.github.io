@@ -169,11 +169,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 .menu .list-group-item-heading, .menu .list-group-item-text{
     color:#fff!important;
 }
-@media (max-width: 768px) {
-    #portfolio-filter {
-        margin-top: 0px;
-    }
-}
+
 footer {
     border-top: 1px solid #C5C0C0;
     width: 100%;
