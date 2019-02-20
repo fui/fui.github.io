@@ -15,17 +15,7 @@
     "icon": "fa-graduation-cap",
   },
   {
-    "text": "Styremedlemmer",
-    "url": "/#",
-    "icon": "fa-github"
-  },
-  {
     "text": "Representanter",
-    "url": "/#",
-    "icon": "fa-github"
-  },
-  {
-    "text": "Vedtekter",
     "url": "/#",
     "icon": "fa-github"
   },
