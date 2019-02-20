@@ -40,6 +40,7 @@
 
 .menu-img {
     margin-right: 0;
+    position: fixed;
 }
 
 @media only screen and (max-width: 990px) {
