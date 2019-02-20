@@ -45,8 +45,8 @@
     align-items: ;
 }
 
-.drop-1 {
-    display: none;
+.d-menu {
+    background-color: white;
 }
 
 @media only screen and (max-width: 990px) {
