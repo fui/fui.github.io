@@ -45,8 +45,7 @@
     align-items: ;
 }
 
-.toggle,
-[id^=drop] {
+#drop-1 {
     display: none;
 }
 
