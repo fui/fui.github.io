@@ -11,7 +11,7 @@
               <h2 class="list-group-item-heading">{{ site.author }} <h4 class="list-group-item-text" >{{ site.about }}</h4></h2>
             </div>
           </div>
-          <div class="menu-img"><img id="menu-icon" src="../static/img/menu.png" height="80" width="80"/>
+          <div class="menu-img" onclick = "openList1()"><img id="menu-icon" src="../static/img/menu.png" height="80" width="80"/>
             <ul class="d-menu" style="list-style-type:none;" style="background-color:white;">
               <li><a href="#">Kursevaluering</a></li>
               <li><a href="#">Fagutvalget</a></li>
@@ -23,3 +23,15 @@
         </div>
       </div>
     </div>
+
+<script>
+    function openList1() {
+        var list = document.getElementById("d-menu");
+
+        if (list.style.display == "none"){
+            list.style.display = "block";
+        }else{
+            list.style.display = "none";
+        }
+    }
+</script>
