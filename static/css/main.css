@@ -42,7 +42,7 @@
     right: 10%;
     position: fixed;
     display: none;
-    align-items: ;
+    z-index: 100;
 }
 
 .d-menu {
