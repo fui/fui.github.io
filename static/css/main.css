@@ -41,12 +41,13 @@
 .menu-img {
     right: 10%;
     position: fixed;
+    display: none;
     z-index: 100;
 }
 
 .d-menu {
     background-color: white;
-    display: block;
+    display: none;
 }
 
 @media only screen and (max-width: 990px) {
