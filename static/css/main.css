@@ -37,6 +37,16 @@
 #list-group-item-text {
     margin-top: 0px;
 }
+
+@media only screen and (max-width: 990px) {
+    .row-details {
+        display: none;
+    }
+    .menu {
+        display: none;
+    }
+}
+
 p.info {
     color: #fff;
 }
