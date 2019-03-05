@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Kursevaluering",
+		"href": "#",
+		"desc": "Ikke asd",
+		"icon_class": "fa fa-sticky-note"
+	},
+	{
+		"title": "Bokskap",
+		"href": "#",
+		"desc": "Ikke asd",
+		"icon_class": "fa fa-sticky-note"
+	},
+	{
+		"title": "Medlemmer",
+		"href": "#",
+		"desc": "Ikke asd",
+		"icon_class": "fa fa-sticky-note"
+	},
+	{
+		"title": "Kontakt oss",
+		"href": "#",
+		"desc": "Ikke asd",
+		"icon_class": "fa fa-sticky-note"
+	},
+	{
+		"title": "Referater",
+		"href": "#",
+		"desc": "Ikke asd",
+		"icon_class": "fa fa-sticky-note"
+	}
+]
