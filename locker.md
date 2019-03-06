@@ -28,7 +28,6 @@ Vennligst forlat skapet i samme stand som da du mottok det.
 
 Er skapet ditt klippet og tømt for innhold, kan du kontakte FUI for å få tilbake innholdet mot et gebyr på kr. 50,-
 
----
 
 ## Reglement for bokskap
 oppdatert 1. august 2018
