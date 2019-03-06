@@ -29,8 +29,6 @@ Data fra kurskritikken kan du finne [her](https://www.mn.uio.no/ifi/livet-rundt-
 
 Alle kursansvarlige kan få tilgang til de innsamlede dataene for sine kurs. Hvis du ikke har tilgang til ditt kurs kan du få det ved å sende e-post til fui-kk(snabel-a)ifi.uio.no.
 
-Spørsmål og andre henvendelser sendes kursevaluering (Velg i dropdown-menyen under).
-
 ---
 
 **Open Source**
