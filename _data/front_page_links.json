@@ -1,32 +1,20 @@
 [
 	{
-		"title": "Kursevaluering",
-		"href": "#",
-		"desc": "Ikke asd",
+		"title": "Publisert kursevaluering",
+		"href": "https://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/fui-kk/kursevaluering/",
+		"desc": "Nysgjerrig på hva tidligere studenter syntes om fag ved IFI? Direktelink til den publiserte kursevalueringen. Logg inn med uio-brukernavn og passord.",
 		"icon_class": "fa fa-sticky-note"
 	},
 	{
-		"title": "Bokskap",
+		"title": "Betal for bokskap",
 		"href": "#",
-		"desc": "Ikke asd",
+		"desc": "Informasjon om betaling av bokskap.",
 		"icon_class": "fa fa-sticky-note"
 	},
 	{
-		"title": "Medlemmer",
+		"title": "•	Klage/bekymringsmelding",
 		"href": "#",
-		"desc": "Ikke asd",
-		"icon_class": "fa fa-sticky-note"
-	},
-	{
-		"title": "Kontakt oss",
-		"href": "#",
-		"desc": "Ikke asd",
-		"icon_class": "fa fa-sticky-note"
-	},
-	{
-		"title": "Referater",
-		"href": "#",
-		"desc": "Ikke asd",
+		"desc": "Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved IFI.",
 		"icon_class": "fa fa-sticky-note"
 	}
 ]
