@@ -18,7 +18,6 @@ Fagutvalget har noen faste oppgaver og arbeider ellers med saker studentene ved 
 - Vi har medlemmer i de fleste styrer og utvalg, inkludert Undervisningsutvalget og Instituttstyret.
 - Gjennom faste møter med undervisningsleder på instituttet
 
----
 
 ## Studentrepresentanter
 
