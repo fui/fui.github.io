@@ -27,7 +27,6 @@
   {
     "text": "Kontakt oss",
     "url": "/contact",
-    "icon": "fa-feed",
-    "target": _blank
+    "icon": "fa-feed"
   }
 ]
