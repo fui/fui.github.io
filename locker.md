@@ -8,8 +8,7 @@ modeline: " vim: set spl=nb: "
 # Bokskap
 
 Fagutvalget ved Institutt for Informatikk tilbyr bokskap som studenter kan ta i bruk, disse finner du i 3. etasje i OJD.
- 
-
+<br><br>
 **Frister**
 
 Betaling: Skap som ikke er betalt innen fristen, vil klippes og tømmes i løpet av én uke.
@@ -30,7 +29,7 @@ Er skapet ditt klippet og tømt for innhold, kan du kontakte FUI for å få tilb
 
 ## Reglement for bokskap
 oppdatert 1. august 2018
- 
+<br><br>
 
 **Tildeling og ansvar**
 1. Alle som er tildelt fast lesesalsplass ved Ifi har rett til ett bokskap. Nummeret til bokskapet er det samme som for lesesalsplassen. Disse skapene skal det ikke betales leie for, og skal heller ikke registreres. Dog, om skapet er i bruk av uvedkommende, kontakter man FUI for å få skapet klippet.
@@ -45,7 +44,7 @@ oppdatert 1. august 2018
 6. FUI kan vedta bruk av semestermerke for å kontrollere at bokskap er registrert.
 7. FUI er ikke ansvarlig for innholdet i låste eller ulåste bokskap.
 8. FUI kan til enhver tid gjennom semesteret sjekke at registeret samsvarer de fysiske skapene ift. registrering og betaling av leie.
- 
+<br><br>
 
 **Fremgangsmåte ved tildeling og leie av bokskap**
 1. Student med rett til leie tar i bruk sin rett ved å okkupere et skap.
@@ -54,7 +53,7 @@ oppdatert 1. august 2018
 4. Studenten må selv sørge for at tidsfrister o.l. blir overholdt. Dvs. at FUI har rett til å sjekke over bokskapene samme dag eller dagen etter for så å klippe skap som ikke er registrert. Registreringen skjer i en liste som er alltid oppdatert.
 
 **PS: Skapet er IKKE registrert på studenten før leien er betalt. Betal så fort som mulig etter du har okkupert et skap.**
- 
+<br><br>
 
 **Kontroll og åpning av bokskap**
 1. FUI skal hvert semester gjennomføre minst en kontroll av at leide bokskap er betalt. FUI kan gjennomføre kontrollene månedlig.
