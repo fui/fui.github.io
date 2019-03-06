@@ -11,7 +11,7 @@
   },
   {
     "text": "Medlemmer",
-    "url": "/memvers",
+    "url": "/members",
     "icon": "fa-github"
   },
   {
@@ -19,7 +19,6 @@
     "url": "/locker",
     "icon": "fa-graduation-cap",
   },
-
   {
     "text": "Vedtekter",
     "url": "/statute",
