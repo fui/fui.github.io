@@ -17,6 +17,7 @@ Fagutvalget har noen faste oppgaver og arbeider ellers med saker studentene ved 
 - Kontakt oss hvis du har problemer i forbindelse med fag eller studier slik som urettferdige frister for obligatoriske oppgaver, dårlige kurs, eller kun detaljer rundt ved kurs som du ønsker å forbedre. Vi behandler alle saker anonymt med mindre du ønsker noe annet.
 - Vi har medlemmer i de fleste styrer og utvalg, inkludert Undervisningsutvalget og Instituttstyret.
 - Gjennom faste møter med undervisningsleder på instituttet
+<br><br>
 
 
 ## Studentrepresentanter
