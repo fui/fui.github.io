@@ -15,20 +15,14 @@ Fagutvalget ved Institutt for Informatikk tilbyr bokskap som studenter kan ta i 
 
 **Frister**
 
-Betaling: Skap som ikke er betalt innen fristen, vil klippes og tømmes i løpet av én uke.
+**Betaling:** Skap som ikke er betalt innen fristen, vil klippes og tømmes i løpet av én uke.
+* Høstsemester: 1. september
+* Vårsemester: 1. februar
 
----
+**Rydding:** Skap skal være tømt og klare for nye brukere i slutten av hvert semester.
+* Høstsemester: 15. januar
+* Vårsemester: 15. august
 
-**Høstsemester: 1. september**
-
-Vårsemester: 1. februar
-Rydding: Skap skal være tømt og klare for nye brukere i slutten av hvert semester.
-
----
-
-**Høstsemester: 15. januar**
-
-Vårsemester: 15. august
 Vennligst forlat skapet i samme stand som da du mottok det.
 
 ---
