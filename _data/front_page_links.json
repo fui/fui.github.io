@@ -9,12 +9,12 @@
 		"title": "Betal for bokskap",
 		"href": "#",
 		"desc": "Informasjon om betaling av bokskap.",
-		"icon_class": "fa fa-sticky-note"
+		"icon_class": "far fa-shopping-cart"
 	},
 	{
 		"title": "Klage/bekymringsmelding",
 		"href": "#",
 		"desc": "Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved IFI.",
-		"icon_class": "fa fa-sticky-note"
+		"icon_class": "fas fa-bullhorn"
 	}
 ]
