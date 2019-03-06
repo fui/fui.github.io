@@ -6,7 +6,9 @@ modeline: " vim: set spl=nb: "
 ---
 
 # Kursevaluering
+
 ---
+
 **Publisert kurskritikk**
 Her finner du den publiserte kurskritikken. Logg inn med uio-brukernavn og passord.
 
