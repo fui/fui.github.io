@@ -11,7 +11,7 @@ modeline: " vim: set spl=nb: "
 
 **Publisert kurskritikk**
 
-Her finner du den publiserte kurskritikken. Logg inn med uio-brukernavn og passord.
+[Her](https://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/fui-kk/kursevaluering/) finner du den publiserte kurskritikken. Logg inn med uio-brukernavn og passord.
 
 ---
 

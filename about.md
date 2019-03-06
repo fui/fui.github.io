@@ -39,6 +39,7 @@ UiO-brukernavnet står i parantes etter representantens navn. Ønsker du å kont
 
 
 **Programrådet for Informatikk**
+
 Dette rådet er oppløst og hver linje skal ha sitt råd.
 
 **Tilsettingsutvalget**
