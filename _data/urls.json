@@ -1,33 +1,33 @@
 [
   {
     "text": "Fagutvalget",
-    "url": "/about/",
+    "url": "/about",
     "icon": "fa-comments"
   },
   {
     "text": "Kursevaluering",
-    "url": "/projects",
+    "url": "/evaluation/",
     "icon": "fa-desktop"
   },
   {
     "text": "Medlemmer",
-    "url": "/#",
+    "url": "/memvers",
     "icon": "fa-github"
   },
   {
     "text": "Bokskap",
-    "url": "/#",
+    "url": "/locker",
     "icon": "fa-graduation-cap",
   },
 
   {
     "text": "Vedtekter",
-    "url": "/#",
+    "url": "/statute",
     "icon": "fa-comments"
   },
   {
     "text": "Kontakt oss",
-    "url": "/feed.xml",
+    "url": "/contact",
     "icon": "fa-feed",
     "target": _blank
   }
