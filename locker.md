@@ -9,6 +9,7 @@ modeline: " vim: set spl=nb: "
 
 Fagutvalget ved Institutt for Informatikk tilbyr bokskap som studenter kan ta i bruk, disse finner du i 3. etasje i OJD.
 
+
 **Frister**
 
 Betaling: Skap som ikke er betalt innen fristen, vil klippes og tømmes i løpet av én uke.
