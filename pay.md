@@ -5,4 +5,4 @@ permalink: /pay/
 modeline: " vim: set spl=nb: "
 ---
 
-[Image](/static/img/bokskap.jpg "icon")
+![Image](http://bildeopplaster.no/E7M "et bilde")
