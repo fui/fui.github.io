@@ -20,6 +20,7 @@ Rydding: Skap skal være tømt og klare for nye brukere i slutten av hvert semes
 * Vårsemester: 15. august
 
 Vennligst forlat skapet i samme stand som da du mottok det.
+<br><br>
 
 **Tømming av skap**
 
