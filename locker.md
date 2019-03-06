@@ -30,6 +30,7 @@ Er skapet ditt klippet og tømt for innhold, kan du kontakte FUI for å få tilb
 ## Reglement for bokskap
 oppdatert 1. august 2018
 
+
 **Tildeling og ansvar**
 1. Alle som er tildelt fast lesesalsplass ved Ifi har rett til ett bokskap. Nummeret til bokskapet er det samme som for lesesalsplassen. Disse skapene skal det ikke betales leie for, og skal heller ikke registreres. Dog, om skapet er i bruk av uvedkommende, kontakter man FUI for å få skapet klippet.
 2. Alle studenter tilknyttet Ifi kan, i den grad det er ledige skap, leie bokskap. Leie bestemmes av allmøtet, og er ft. kr 30,-
@@ -44,6 +45,7 @@ oppdatert 1. august 2018
 7. FUI er ikke ansvarlig for innholdet i låste eller ulåste bokskap.
 8. FUI kan til enhver tid gjennom semesteret sjekke at registeret samsvarer de fysiske skapene ift. registrering og betaling av leie.
 
+
 **Fremgangsmåte ved tildeling og leie av bokskap**
 1. Student med rett til leie tar i bruk sin rett ved å okkupere et skap.
 2. Studenten må deretter betale leie med Vipps. (har du ikke vipps? Få hjelp av en venn)
@@ -51,6 +53,7 @@ oppdatert 1. august 2018
 4. Studenten må selv sørge for at tidsfrister o.l. blir overholdt. Dvs. at FUI har rett til å sjekke over bokskapene samme dag eller dagen etter for så å klippe skap som ikke er registrert. Registreringen skjer i en liste som er alltid oppdatert.
 
 **PS: Skapet er IKKE registrert på studenten før leien er betalt. Betal så fort som mulig etter du har okkupert et skap.**
+
 
 **Kontroll og åpning av bokskap**
 1. FUI skal hvert semester gjennomføre minst en kontroll av at leide bokskap er betalt. FUI kan gjennomføre kontrollene månedlig.
