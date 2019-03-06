@@ -10,7 +10,7 @@ modeline: " vim: set spl=nb: "
 ---
 
 1. Okkupèr et skap i 3. etasje (hengelås)
-2. Betal 30,- NOK med vipps med en gang
+2. Betal 30,- NOK med vipps med en gang:
 * Åpne vipps
 * Gå til "Kjøp og betal"
 * Søk etter "12264" og velg "Fagutvalget ved Institutt for Informatikk"
