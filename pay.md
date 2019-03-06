@@ -20,6 +20,3 @@ modeline: " vim: set spl=nb: "
 
 Leien er ikke gyldig før alle steg er gjennomført korrekt.
 Les reglement på [bokskap](/locker.md).
-
-
-![Image](http://bildeopplaster.no/E7M "et bilde")
