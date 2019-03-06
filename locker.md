@@ -7,11 +7,7 @@ modeline: " vim: set spl=nb: "
 
 # Bokskap
 
-**Bokskap**
-
 Fagutvalget ved Institutt for Informatikk tilbyr bokskap som studenter kan ta i bruk, disse finner du i 3. etasje i OJD.
-
----
 
 **Frister**
 
@@ -25,15 +21,13 @@ Rydding: Skap skal være tømt og klare for nye brukere i slutten av hvert semes
 
 Vennligst forlat skapet i samme stand som da du mottok det.
 
----
-
 **Tømming av skap**
 
 Er skapet ditt klippet og tømt for innhold, kan du kontakte FUI for å få tilbake innholdet mot et gebyr på kr. 50,-
 
 ---
 
-# Reglement for bokskap
+## Reglement for bokskap
 oppdatert 1. august 2018
 
 **Tildeling og ansvar**
