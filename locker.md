@@ -31,7 +31,8 @@ Er skapet ditt klippet og tømt for innhold, kan du kontakte FUI for å få tilb
 
 ## Reglement for bokskap
 oppdatert 1. august 2018
-<br><br>
+
+---
 
 **Tildeling og ansvar**
 1. Alle som er tildelt fast lesesalsplass ved Ifi har rett til ett bokskap. Nummeret til bokskapet er det samme som for lesesalsplassen. Disse skapene skal det ikke betales leie for, og skal heller ikke registreres. Dog, om skapet er i bruk av uvedkommende, kontakter man FUI for å få skapet klippet.
