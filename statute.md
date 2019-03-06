@@ -6,3 +6,6 @@ modeline: " vim: set spl=nb: "
 ---
 
 # Vedtekter
+
+---
+

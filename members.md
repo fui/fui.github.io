@@ -6,6 +6,9 @@ modeline: " vim: set spl=nb: "
 ---
 
 # Medlemmer
+
+---
+
 Fagutvalgets medlemmer høst 2018 er:
 
 * Dennis Norheim (dennisno)

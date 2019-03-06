@@ -6,6 +6,9 @@ modeline: " vim: set spl=nb: "
 ---
 
 # Om FUI
+
+---
+
 Fagutvalget  ved Institutt for informatikk (FUI) er informatikkstudentenes eget organ, og skal fungere som et bindeledd mellom studentene, instituttet og universitetet forøvrig. FUI har mellom 7 og 17 medlemmer, og møtes som regel en gang i måneden. Medlemmene velges på et valgallmøte for instituttets studenter i begynnelsen av hvert semester.
 
 Fagutvalget har noen faste oppgaver og arbeider ellers med saker studentene ved instituttet ønsker å ta opp. Blant de faste oppgavene er plassfordeling på lesesalene, administrasjon av bokskap, kursevaluering på nett og representasjon i styrer og utvalg.

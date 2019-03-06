@@ -7,6 +7,8 @@ modeline: " vim: set spl=nb: "
 
 # Bokskap
 
+---
+
 Fagutvalget ved Institutt for Informatikk tilbyr bokskap som studenter kan ta i bruk, disse finner du i 3. etasje i OJD.
 <br><br>
 **Frister**
