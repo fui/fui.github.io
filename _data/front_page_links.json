@@ -9,7 +9,7 @@
 		"title": "Betal for bokskap",
 		"href": "#",
 		"desc": "Informasjon om betaling av bokskap.",
-		"icon_class": "far fa-shopping-cart"
+		"icon_class": "fas fa-unlock-alt"
 	},
 	{
 		"title": "Klage/bekymringsmelding",
