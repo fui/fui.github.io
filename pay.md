@@ -19,4 +19,5 @@ modeline: " vim: set spl=nb: "
 * **I tekstfelt, inkluder skapnummer og brukernavn** (eksempel: 3200 marcusrg)
 
 Leien er ikke gyldig før alle steg er gjennomført korrekt.
-Les reglement på [bokskap](/locker.md).
+
+Les reglement [her](/locker.md).
