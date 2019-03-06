@@ -20,6 +20,11 @@
     "icon": "fa-graduation-cap",
   },
   {
+    "text": "Referater",
+    "url": "/reports",
+    "icon": "fa-graduation-cap",
+  },
+  {
     "text": "Vedtekter",
     "url": "/statute",
     "icon": "fa-comments"
