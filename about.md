@@ -22,6 +22,7 @@ Studentrepresentanter til de fleste utvalg ved Ifi velges på Valgallmøtet i be
 
 UiO-brukernavnet står i parantes etter representantens navn. Ønsker du å kontakte en studentrepresentant direkte kan du sende epost til <brukernavn>@ulrik.uio.no.
 <br><br>
+
 **Instituttstyret**
 * Karl Hole Totland (karlhto) – H18-V19
 * Zixuan Liu (zixuanl) – V18-H18
