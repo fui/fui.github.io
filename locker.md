@@ -10,22 +10,32 @@ modeline: " vim: set spl=nb: "
 **Bokskap**
 Fagutvalget ved Institutt for Informatikk tilbyr bokskap som studenter kan ta i bruk, disse finner du i 3. etasje i OJD.
 
+---
+
 **Frister**
 Betaling: Skap som ikke er betalt innen fristen, vil klippes og tømmes i løpet av én uke.
+
+---
 
 **Høstsemester: 1. september**
 Vårsemester: 1. februar
 Rydding: Skap skal være tømt og klare for nye brukere i slutten av hvert semester.
 
+---
+
 **Høstsemester: 15. januar**
 Vårsemester: 15. august
 Vennligst forlat skapet i samme stand som da du mottok det.
+
+---
 
 **Tømming av skap**
 Er skapet ditt klippet og tømt for innhold, kan du kontakte FUI for å få tilbake innholdet mot et gebyr på kr. 50,-
 
 # Reglement for bokskap
 oppdatert 1. august 2018
+
+---
 
 **Tildeling og ansvar**
 1. Alle som er tildelt fast lesesalsplass ved Ifi har rett til ett bokskap. Nummeret til bokskapet er det samme som for lesesalsplassen. Disse skapene skal det ikke betales leie for, og skal heller ikke registreres. Dog, om skapet er i bruk av uvedkommende, kontakter man FUI for å få skapet klippet.
