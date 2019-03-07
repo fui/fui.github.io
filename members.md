@@ -11,7 +11,7 @@ modeline: " vim: set spl=nb: "
 
 Studentrepresentanter til de fleste utvalg ved Ifi velges på Valgallmøtet i begynnelsen av høstsemesteret. Her finner du studentrepresentanter organisert etter hvilke utvalg de sitter i.
 
-UiO-brukernavnet står i parantes etter representantens navn. Ønsker du å kontakte en studentrepresentant direkte kan du sende epost til <brukernavn>@ulrik.uio.no.
+UiO-brukernavnet står i parantes etter representantens navn. Ønsker du å kontakte en studentrepresentant direkte kan du sende epost til \<brukernavn\>@ulrik.uio.no.
 <br><br>
 
 **Instituttstyret**
