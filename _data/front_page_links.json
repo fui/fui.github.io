@@ -17,5 +17,12 @@
 		"href": "/contact",
 		"desc": "Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved IFI. \n",
 		"icon_class": "fas fa-bullhorn"
-	}
+	},
+    {
+        "title": "Siste godkjente møtereferat",
+        "href": "#",
+        "desc": "Fagutvalget holder ukentlige møter og publiserer referat fra disse etter godkjenning. Dette er en direktelink til det siste godkjente referatet.",
+        "icon_class": "fas fa-paperclip"
+    }
+
 ]

@@ -10,7 +10,7 @@
     "icon": "fa-desktop"
   },
   {
-    "text": "Medlemmer",
+    "text": "Studentrepresentanter",
     "url": "/members",
     "icon": "fa-github"
   },
@@ -27,6 +27,11 @@
   {
     "text": "Vedtekter",
     "url": "/statute",
+    "icon": "fa-comments"
+  },
+  {
+    "text": "FAQ",
+    "url": "/faq",
     "icon": "fa-comments"
   },
   {
