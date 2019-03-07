@@ -39,9 +39,11 @@ i styrer og utvalg.
 
 ## Hovedvirksomhet
 
+---
+
 ### Bokskap
-- FUI tilbyr bokskap som studenter kan ta i bruk. Disse finner du i 3. etasje
-  i Ole-Johan Dahls hus.
+FUI tilbyr bokskap som studenter kan ta i bruk. Disse finner du i 3. etasje i
+Ole-Johan Dahls hus.
 
 ### Kursevaluering
 Kursevaluering (KK) gjøres på slutten av hvert semester for alle kursene på
@@ -74,4 +76,5 @@ Fagutvalgets medlemmer høst 2018 er:
 * Tonje Røyeng (tonjro)
 * Zixuan Liu (zixuanl)
 * Julie Eldøy (julieeld)
-- Bjørn (bjornfar)
+- Bjørn Fridtjof Arisland (bjornfar)
+- Jonas Arnesen Baer (jonasaba)
