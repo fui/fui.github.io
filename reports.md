@@ -9,4 +9,8 @@ modeline: " vim: set spl=nb: "
 
 ---
 
-Alle våre referater finner du [her](http://fui.ifi.uio.no/referater/).
+Alle referater fra før 2019 finner du [her](http://fui.ifi.uio.no/referater/).
+
+{% for reports in site.reports %}
+  <h2>{{ reports.name }}</h2>
+{% endfor %}
