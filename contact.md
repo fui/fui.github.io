@@ -42,6 +42,6 @@ Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https:/
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
   <div class="submit">
-    <button type="button" class="btn btn-primary btn-sm">Send</button>
+    <button type="button" class="btn btn-primary btn-lg btn-block">Send</button>
   </div>
 </form>
