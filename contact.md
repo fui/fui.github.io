@@ -23,18 +23,13 @@ Hva gjelder henvendelsen?
     <option value="lockers">Bokskap</option>
     <option value="other">Annet</option>
 </select>
-<br><br>
 
 <input type="text" name="Navn" value="Navn">
-<br><br>
 
 <input type="text" name="mail" value="Epost">
-<br><br>
 
 <input type="text" name="topic" value="Emne">
-<br><br>
 
 <input type="text" name="contet" value="Innhold">
-<br><br>
 
 <input type="submit">
