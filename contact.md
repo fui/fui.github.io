@@ -17,7 +17,7 @@ Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https:/
 Hva gjelder henvendelsen?
 
 <select name="mail">
-    <option value="general">Genrelle henvendelser</option>
+    <option value="general">Generelle henvendelser</option>
     <option value="alert">Klage/Bekymringsmelding</option>
     <option value="evaluation">Kursevaluering</option>
     <option value="lockers">Bokskap</option>
