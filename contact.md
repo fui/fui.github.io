@@ -9,3 +9,4 @@ modeline: " vim: set spl=nb: "
 
 ---
 
+<input type="text" id="name" name="name"/>
