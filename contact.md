@@ -37,7 +37,7 @@ Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https:/
         <label for="exampleFormControlInput1">Emne:</label>
         <input type="text" class="form-control" id="alert" placeholder="Klage">
     </div>
-  <div class="form-group">
+  <div class="form-group col-xs-12">
     <label for="exampleFormControlTextarea1">Innhold:</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
