@@ -14,8 +14,8 @@ Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ve
 Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https://www.uio.no/studier/kontakt/si-fra/).
 <br><br>
 
-<form>
-  <div class="form-group">
+<form class="col-md-4 col-md-offset-4">
+  <div class="form-group" >
     <label for="exampleFormControlSelect1">Hva gjelder henvendelsen?</label>
     <select class="form-control" id="exampleFormControlSelect1">
       <option value="general">Generelle henvendelser</option>
