@@ -26,19 +26,20 @@ Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https:/
     </select>
   </div>
   <div class="form-group">
-      <label for="exampleFormControlInput1">Email address</label>
+      <label for="exampleFormControlInput1">Epost:</label>
       <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
     </div>
   <div class="form-group">
-      <label for="exampleFormControlInput1">Navn</label>
+      <label for="exampleFormControlInput1">Navn:</label>
       <input type="text" class="form-control" id="name" placeholder="Nils Nilssen">
   </div>
   <div class="form-group">
-        <label for="exampleFormControlInput1">Emne</label>
+        <label for="exampleFormControlInput1">Emne:</label>
         <input type="text" class="form-control" id="alert" placeholder="Klage">
     </div>
   <div class="form-group">
-    <label for="exampleFormControlTextarea1">Example textarea</label>
+    <label for="exampleFormControlTextarea1">Innhold:</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
+  <button type="submit" class="btn btn-primary">Send</button>
  </form>
