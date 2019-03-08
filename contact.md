@@ -33,3 +33,15 @@ Hva gjelder henvendelsen?
 <input type="text" name="contet" value="Innhold">
 <br>
 <input type="submit">
+
+
+<form>
+  <div class="row">
+    <div class="col">
+      <input type="text" class="form-control" placeholder="First name">
+    </div>
+    <div class="col">
+      <input type="text" class="form-control" placeholder="Last name">
+    </div>
+  </div>
+</form>
