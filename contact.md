@@ -10,10 +10,11 @@ modeline: " vim: set spl=nb: "
 ---
 
 Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved IFI. Benytt også dette skjemaet hvis du ønsker å snakke med oss om bokskap, kursevaluering, eller noe av det andre vi driver med.
-<br><br>
 
 Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https://www.uio.no/studier/kontakt/si-fra/).
+<br><br>
 
+<center>
 Hva gjelder henvendelsen?
 
 <select name="mail">
@@ -33,3 +34,4 @@ Hva gjelder henvendelsen?
 <input type="text" name="contet" value="Innhold">
 
 <input type="submit">
+</center>
