@@ -16,10 +16,6 @@ Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https:/
 
 <form>
   <div class="form-group">
-    <label for="exampleFormControlInput1">Email address</label>
-    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-  </div>
-  <div class="form-group">
     <label for="exampleFormControlSelect1">Hva gjelder henvendelsen?</label>
     <select class="form-control" id="exampleFormControlSelect1">
       <option value="general">Generelle henvendelser</option>
@@ -29,14 +25,18 @@ Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https:/
       <option value="other">Annet</option>
     </select>
   </div>
-  <input type="text" class="form-control" placeholder="First name" id="Navn" value="Navn">
-  <br>
-  <input type="text" class="form-control" placeholder="First name" id="mail" value="Epost">
-  <br>
-  <input type="text" class="form-control" placeholder="First name" id="topic" value="Emne">
-  <br>
-  <input type="text" class="form-control" placeholder="First name" id="contet" value="Innhold">
-  <br>
+  <div class="form-group">
+      <label for="exampleFormControlInput1">Email address</label>
+      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+    </div>
+  <div class="form-group">
+      <label for="exampleFormControlInput1">Navn</label>
+      <input type="text" class="form-control" id="name" placeholder="Nils Nilssen">
+  </div>
+  <div class="form-group">
+        <label for="exampleFormControlInput1">Emne</label>
+        <input type="text" class="form-control" id="alert" placeholder="Klage">
+    </div>
   <div class="form-group">
     <label for="exampleFormControlTextarea1">Example textarea</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
