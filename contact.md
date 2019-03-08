@@ -9,4 +9,19 @@ modeline: " vim: set spl=nb: "
 
 ---
 
-<input type="text" id="name" name="name"/>
+Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved IFI. Benytt også dette skjemaet hvis du ønsker å snakke med oss om bokskap, kursevaluering, eller noe av det andre vi driver med.
+
+Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https://www.uio.no/studier/kontakt/si-fra/).
+
+Hva gjelder henvendelsen?
+
+<select name="mail">
+    <option value="general">Genrelle henvendelser</option>
+    <option value="alert">Klage/Bekymringsmelding</option>
+    <option value="evaluation">Kursevaluering</option>
+    <option value="lockers">Bokskap</option>
+    <option value="other">Annet</option>
+</select>
+<select name="mail">
+<br><br>
+<input type="submit">
