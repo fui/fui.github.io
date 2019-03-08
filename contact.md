@@ -14,7 +14,7 @@ Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ve
 Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https://www.uio.no/studier/kontakt/si-fra/).
 <br><br>
 
-<form class="col-md-4 col-md-offset-4">
+<form>
   <div class="form-group" >
     <label for="exampleFormControlSelect1">Hva gjelder henvendelsen?</label>
     <select class="form-control" id="exampleFormControlSelect1">
@@ -41,5 +41,4 @@ Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https:/
     <label for="exampleFormControlTextarea1">Innhold:</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
-  <button type="submit" class="btn btn-primary">Send</button>
  </form>
