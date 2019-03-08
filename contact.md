@@ -41,4 +41,7 @@ Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https:/
     <label for="exampleFormControlTextarea1">Innhold:</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
- </form>
+  <div class="submit">
+    <h1>Send!</h1>
+  </div>
+</form>
