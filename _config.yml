@@ -5,6 +5,8 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/codeasashu
 about: ved Institutt for Informatikk
 
+exclude: [vendor]
+
 url: "https://fui.github.io/"
 
 allowsearch: true
