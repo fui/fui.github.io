@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/fui/fui.github.io.svg?branch=master)](https://travis-ci.org/fui/fui.github.io)
+
 # fui.github.io
 FUI sin nye hjemmeside!
 
