@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vedtekter
-permalink: /statute/
+permalink: /vedtekter/
 modeline: " vim: set spl=nb: "
 ---
 

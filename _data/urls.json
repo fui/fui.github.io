@@ -1,37 +1,37 @@
 [
   {
     "text": "Fagutvalget",
-    "url": "/about",
+    "url": "/fagutvalget",
     "icon": "fa-comments"
   },
   {
     "text": "Kursevaluering",
-    "url": "/evaluation",
+    "url": "/kursevaluering",
     "icon": "fa-desktop"
   },
   {
     "text": "Studentrepresentanter",
-    "url": "/representatives",
+    "url": "/representanter",
     "icon": "fa-github"
   },
   {
     "text": "Bokskap",
-    "url": "/locker",
-    "icon": "fa-graduation-cap",
+    "url": "/bokskap",
+    "icon": "fa-graduation-cap"
   },
   {
     "text": "Referater",
-    "url": "/reports",
-    "icon": "fa-graduation-cap",
+    "url": "/referater",
+    "icon": "fa-graduation-cap"
   },
   {
     "text": "Vedtekter",
-    "url": "/statute",
+    "url": "/vedtekter",
     "icon": "fa-comments"
   },
   {
     "text": "Kontakt oss",
-    "url": "/contact",
+    "url": "/kontaktinformasjon",
     "icon": "fa-feed"
   }
 ]

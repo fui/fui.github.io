@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Studentrepresentanter
-permalink: /representatives/
+permalink: /representanter/
 modeline: " vim: set spl=nb: "
 ---
 

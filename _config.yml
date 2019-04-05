@@ -1,21 +1,15 @@
 title: FUI
-description: Fagutvalget
-author: Fagutvalget
+description:
+author: Fagutvalget ved Institutt for Informatikk
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/codeasashu
-about: ved Institutt for Informatikk
 
 exclude: [vendor]
 
 url: "https://fui.github.io/"
 
-allowsearch: true
-
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
-
-collections:
-- reports
 
 share:
   twitter_username: \#

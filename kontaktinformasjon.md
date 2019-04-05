@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakt oss
-permalink: /contact/
+permalink: /kontaktinformasjon/
 modeline: " vim: set spl=nb: "
 ---
 
@@ -20,7 +20,7 @@ Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https:/
     <select class="form-control" id="exampleFormControlSelect1">
       <option value="general">Generelle henvendelser</option>
       <option value="alert">Klage/Bekymringsmelding</option>
-      <option value="evaluation">Kursevaluering</option>
+      <option value="kursevaluering">Kursevaluering</option>
       <option value="lockers">Bokskap</option>
       <option value="other">Annet</option>
     </select>
