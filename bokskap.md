@@ -1,11 +1,24 @@
 ---
 layout: page
-title: Bokskap
-permalink: /locker/
+title: Betale for bokskap
+permalink: /bokskap/
 modeline: " vim: set spl=nb: "
 ---
 
-# Bokskap
+# Leie av bokskap
+
+---
+
+1. Okkuper et skap i 3. etasje (hengelås)
+2. Betal 30,- NOK med vipps med en gang:
+* Åpne vipps
+* Gå til "Kjøp og betal"
+* Søk etter "12264" og velg "Fagutvalget ved Institutt for Informatikk"
+* **I tekstfelt, inkluder skapnummer og brukernavn** (eksempel: 3200 marcusrg)
+
+Leien er ikke gyldig før alle steg er gjennomført korrekt.
+
+# Reglement
 
 ---
 

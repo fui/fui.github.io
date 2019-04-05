@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Om FUI
-permalink: /about/
+permalink: /fagutvalget/
 modeline: " vim: set spl=nb: "
 ---
 
@@ -59,7 +59,7 @@ svarer.
 
 ---
 
-Fagutvalgets medlemmer høst 2018 er:
+Fagutvalgets medlemmer vår 2019 er:
 
 * Dennis Norheim (dennisno)
 * Jeanette Kirkerud (jeanetki)

@@ -7,7 +7,6 @@
         <title>{{ page.title }} - {{ site.title }}</title>
         <meta name="author" content="{{ site.author }}" />
         <meta name="description" content="{% if page.title %}{{ page.title }}{% else %}{{ site.description }}{% endif %}" />
-        <meta name="keywords" content="{% if page.title %}{{ page.title }}, {{ site.title }}, {% for categ in page.categories %}{{ categ }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% else %}{{ site.title }}, {% for category in site.categories %}{% capture categories_slug %}{{ category | first }}{% endcapture %}{% for categ in categories_slug %}{{ categ }}{% endfor %}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}" />
 
         <meta content="{{ site.share.fb_appid }}" property="fb:app_id">
         <meta content="{{ site.title }}" property="og:site_name">
@@ -31,17 +30,7 @@
         {% endif %}
         {% if page.date %}
           <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-          <meta content="{{ site.url }}/about/" property="article:author">
-        {% endif %}
-        {% if page.image %}
-          <meta content="{{ site.url }}/static/img/posts/{{ page.image }}" property="og:image">
-        {% else %}
-          <meta content="{{ site.url }}/static/img/logo-high-resolution.png" property="og:image">
-        {% endif %}
-        {% if page.categories %}
-          {% for category in page.categories limit:1 %}
-          <meta content="{{ category }}" property="article:section">
-          {% endfor %}
+          <meta content="{{ site.url }}/fagutvalget/" property="article:author">
         {% endif %}
         {% if page.tags %}
           {% for tag in page.tags %}
