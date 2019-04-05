@@ -30,11 +30,6 @@
     "icon": "fa-comments"
   },
   {
-    "text": "FAQ",
-    "url": "/faq",
-    "icon": "fa-comments"
-  },
-  {
     "text": "Kontakt oss",
     "url": "/contact",
     "icon": "fa-feed"

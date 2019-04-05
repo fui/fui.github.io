@@ -2,19 +2,19 @@
 layout: default
 title: Hjem
 ---
-<div class="well">
+<div class="well" id="information-box">
     <div class="list-group">
-      {% for post in site.data.front_page_links %}
-      <div class="list-group-item">
-        <div class="row-action-primary">
-          <i class="{{ post.icon_class }}"></i>
+        {% for post in site.data.front_page_links %}
+        <div class="list-group-item">
+            <div class="row-action-primary">
+                <i class="{{ post.icon_class }}"></i>
+            </div>
+            <div class="row-content">
+                <h4 class="list-group-item-heading"><a href="{{ post.href }}">{{ post.title }}</a></h4>
+                <p class="list-group-item-text">{{ post.desc }}</p>
+            </div>
         </div>
-        <div class="row-content">
-          <h4 class="list-group-item-heading"><a href="{{ post.href }}">{{ post.title }}</a></h4>
-          <p class="list-group-item-text">{{ post.desc }}</p>
-        </div>
-      </div>
-      <div class="list-group-separator"></div>
-      {% endfor %}
+        <div class="list-group-separator"></div>
+        {% endfor %}
     </div>
 </div><!-- end #home -->

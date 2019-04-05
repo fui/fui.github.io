@@ -11,14 +11,7 @@
               <h2 class="list-group-item-heading">{{ site.author }} <h4 class="list-group-item-text" >{{ site.about }}</h4></h2>
             </div>
           </div>
-          <section class="menu-img" onclick = "openList1()"><img id="menu-icon" src="../static/img/menu.png" height="80" width="80"/>
-            <ul class="d-menu">
-              <li><a href="#">Kursevaluering</a></li>
-              <li><a href="#">Fagutvalget</a></li>
-              <li><a href="#">Bokskap</a></li>
-              <li><a href="#">Representanter</a></li>
-              <li><a href="#">Kontakt oss</a></li>
-            </ul> </section>
+          <section class="menu-img" onclick = "openList1()"><img id="menu-icon" src="../static/img/menu.png" height="80" width="80"/></section>
           </div>
         </div>
       </div>
@@ -26,12 +19,19 @@
 
 <script>
     function openList1() {
-        var list = document.getElementById("d-menu");
+        var isVisible = document.getElementById("hidden-menu-id").style.display === "block";
+        if(isVisible === false){
+            document.getElementById("hidden-menu-id").style.display = "block"
+            //document.getElementById("information-box").style.display = "none"
+            document.getElementById("footer").style.display = "none"
+            document.getElementById("menu-icon").src="../static/img/menux.png";
 
-        if (list.style.display == "none"){
-            list.style.display = "block";
-        }else{
-            list.style.display = "none";
+        }
+        else{
+            document.getElementById("hidden-menu-id").style.display = "none"
+            //document.getElementById("information-box").style.display = "block"
+            document.getElementById("footer").style.display = "none"
+            document.getElementById("menu-icon").src="../static/img/menu.png";
         }
     }
 </script>
