@@ -3,7 +3,7 @@
         <div class="row">
           <div class="col-md-3 col-xs-12">
             <div class="row-picture">
-              <a href="../"><img id="fagutvalget" class="logo-img" src="../static/img/FUI-sort.png" height="75px" alt="FUI"></a>
+              <a href="../"><img id="about" class="logo-img" src="../static/img/FUI-sort.png" height="75px"></a>
             </div>
           </div>
           <div class="col-md-9 col-xs-12 full">
@@ -11,27 +11,14 @@
               <h2 class="list-group-item-heading">{{ site.author }} <h4 class="list-group-item-text" >{{ site.about }}</h4></h2>
             </div>
           </div>
-          <section class="menu-img" onclick = "openList1()"><img id="menu-icon" src="../static/img/menu.png" height="80" width="80" alt="Meny"/></section>
+          <section class="menu-img" onclick = "show_hide_menu()"><img id="menu-icon" src="../static/img/menu.png" height="80" width="80"/></section>
           </div>
         </div>
       </div>
     </div>
 
 <script>
-    function openList1() {
-        var isVisible = document.getElementById("hidden-menu-id").style.display === "block";
-        if(isVisible === false){
-            document.getElementById("hidden-menu-id").style.display = "block"
-            //document.getElementById("information-box").style.display = "none"
-            document.getElementById("footer").style.display = "none"
-            document.getElementById("menu-icon").src="../static/img/menux.png";
-
-        }
-        else{
-            document.getElementById("hidden-menu-id").style.display = "none"
-            //document.getElementById("information-box").style.display = "block"
-            document.getElementById("footer").style.display = "none"
-            document.getElementById("menu-icon").src="../static/img/menu.png";
-        }
+    function show_hide_menu() {
+        $("#hidden-menu-id").slideToggle("slow");
     }
 </script>
