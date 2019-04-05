@@ -29,7 +29,7 @@
 }
 
 .logo-img {
-    width: 75px;
+    width: auto;
     height: 75px;
     display: block;
     margin-left: auto;
@@ -230,4 +230,3 @@ footer {
 .pager li.active a {
     background: rgba(89, 148, 129, 0.3);
 }
-

@@ -63,7 +63,7 @@ Fagutvalgets medlemmer høst 2018 er:
 
 * Dennis Norheim (dennisno)
 * Jeanette Kirkerud (jeanetki)
-* Kari Elfrid Stamnes (kariesta)
+* Kari Eldfrid Stamnes (kariesta)
 * Elise Margarethe Lystad (elisemly)
 * Karl Hole Totland (karlhto)
 * Anja Gjerpe (anjamg)
