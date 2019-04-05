@@ -1,8 +1,9 @@
 title: FUI
-description:
-author: Fagutvalget ved Institutt for Informatikk
+description: Fagutvalget
+author: Fagutvalget
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/codeasashu
+about: ved Institutt for Informatikk
 
 exclude: [vendor]
 
