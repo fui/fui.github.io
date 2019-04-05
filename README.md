@@ -1,22 +1,19 @@
-## HCZ Material theme
+# fui.github.io
+FUI sin nye hjemmeside!
 
-This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
+## Bidrag
+Ønsker du å bidra? Send inn en PR (Pull Request) da vel! Er ingen krav til
+innhold annet enn at ting skal kjøre.
 
-### Demo
-* [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
+## TODO
+- Kontaktskjema
+- Møtereferatside
+- "Drop down"-meny
+- Interaksjonsdesignmagi
 
-#### Feature
 
-* Sitemap and XML Feed
-* Site Search 
-* Projects and tags
-* Paginations in homepage
-* Posts under category
-* Related Posts
-* Highlight pre
-* Next & Previous Post
-* Disqus comment
+## Tema
+Vi benytter oss av en modifisert variant av
+[HCZ Material Theme](http://jekyllthemes.org/themes/hcz-jekyll-material/).
 
-#### Screenshot
-
-![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
+[//]: # ( vim: set spl=nb: )
