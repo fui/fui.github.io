@@ -5,8 +5,8 @@
     width: 100%;
 }
 .full{ font-size: 16px; }
-
 .hidden-menu {
+    display: none;
     position: fixed;
     top: 0;
     left: 0;
@@ -17,16 +17,21 @@
     color: white;
 }
 
+#hidden-text li a {
+    color: white;
+}
+
 #hidden-text {
     text-align: center;
     margin: 0;
-    position: fixed;
+    position: relative;
     top: 50%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
     font-size: 200%;
 }
+
 
 .logo-img {
     width: auto;
