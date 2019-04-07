@@ -42,7 +42,7 @@ collections:
     permalink: /:collection/:path/
   referater:
     output: true
-    permalink: /referater/:path/
+    permalink: /:collection/:path/
 
 paginate: 5
 
