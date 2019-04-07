@@ -1,24 +1,30 @@
 <div class="header-panel shadow-z-2">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-3 col-xs-12">
-            <div class="row-picture">
-              <a href="../"><img id="about" class="logo-img" src="../static/img/FUI-sort.png" height="75px"></a>
-            </div>
-          </div>
-          <div class="col-md-9 col-xs-12 full">
-            <div class="row-details" height="75px">
-              <h2 class="list-group-item-heading">{{ site.author }} <h4 class="list-group-item-text" >{{ site.about }}</h4></h2>
-            </div>
-          </div>
-          <section class="menu-img" onclick = "show_hide_menu()"><img id="menu-icon" src="../static/img/menu.png" height="80" width="80"/></section>
-          </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-xs-12">
+        <div class="row-picture">
+          <a href="../"><img id="about" class="logo-img"
+                             alt="FUI" src="{{ site.urlimg }}FUI-hvit.png"></a>
         </div>
       </div>
+      <div class="col-md-9 col-xs-12 full">
+        <div class="row-details" height="75px">
+          <h2 class="list-group-item-heading">{{ site.title }}
+            <h4 class="list-group-item-text">{{ site.subtitle }}</h4>
+          </h2>
+        </div>
+      </div>
+      <section class="menu-img" onclick = "show_hide_menu()">
+        <img id="menu-icon" height="80" width="80"
+             alt="meny" src="{{ site.urlimg }}menu.png"/>
+      </section>
     </div>
+  </div>
+</div>
+</div>
 
 <script>
-    function show_hide_menu() {
-        $("#hidden-menu-id").slideToggle("slow");
-    }
+  function show_hide_menu() {
+    $("#hidden-menu-id").slideToggle("slow");
+  }
 </script>

@@ -100,7 +100,6 @@ DEPENDENCIES
   jekyll
   jekyll-gist
   jekyll-paginate
-  jekyll-watch
   kramdown
   rouge
 

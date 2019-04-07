@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Referater
-permalink: /referater
+permalink: /referater/
 modeline: " vim: set spl=nb: "
 ---
 

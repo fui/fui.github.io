@@ -1,27 +1,49 @@
-title: FUI
-description: Fagutvalget
-author: Fagutvalget
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: ved Institutt for Informatikk
+title: Fagutvalget
+subtitle: ved Institutt for Informatikk
 
-exclude: [vendor]
+description: |
+  Fagutvalget ved Institutt for Infromatikk leverer hver høst kursevaluering,
+  og distribuerer ellers bokskap ved Ole-Johan Dahls hus. Vi kan også kontaktes
+  om kritikkverdige forhold på instituttet, enten det er faglig eller
+  administrativt.
 
-url: "https://fui.github.io/"
+author: FUI
+logo: FUI-hvit.png
+github: "https://github.com/fui"
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+url: "https://fui.github.io"
+urlimg: 'https://fui.github.io/static/img/'
 
-share:
-  twitter_username: \#
-  fb_appid: 000000000000
-
-
-enableTags: true
-tagarray: []
-
-paginate: 20
-per_page: 20
-paginate_path: "/page:num/"
+language: "nb"
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
+
+exclude:
+  - .sass-cache
+  - vendor
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+plugin:
+  - jekyll-paginate
+  - jekyll-gist
+
+defaults:
+  - scope:
+      path: ""
+      type: "referater"
+    values:
+      show_meta: false
+      comments: false
+      author: FUI
+
+collections:
+  posts:
+    permalink: /:collection/:path/
+  referater:
+    output: true
+    permalink: /referater/:path/
+
+paginate: 5
+
+# vim: set ft=ansible:
