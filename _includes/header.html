@@ -25,6 +25,13 @@
 
 <script>
   function show_hide_menu() {
+    if($("#hidden-menu-id").is(":hidden"))
+    {
+        document.getElementById("menu-icon").src = "{{ site.urlimg }}menu.png";
+    }
+    else{
+        document.getElementById("menu-icon").src = "{{ site.urlimg }}menu.png";
+    }
     $("#hidden-menu-id").slideToggle("slow");
   }
 </script>
