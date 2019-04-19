@@ -9,41 +9,37 @@ modeline: " vim: set spl=nb: "
 
 ---
 
-Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved IFI. Benytt også dette skjemaet hvis du ønsker å snakke med oss om bokskap, kursevaluering, eller noe av det andre vi driver med.
-
+Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved IFI. 
+<br><br>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Hva gjelder henvendelsen?</th>
+      <th scope="col">Mail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Generelle henvendelser</td>
+      <td><a href="mailto:fui@ifi.uio.no">fui@ifi.uio.no</a></td>
+    </tr>
+    <tr>
+      <td>Klage/bekymringsmelding</td>
+      <td><a href="mailto:fui-leder@ifi.uio.no">fui-leder@ifi.uio.no</a></td>
+    </tr>
+    <tr>
+      <td>Kursevaluering</td>
+      <td><a href="mailto:fui-kk@ifi.uio.no">fui-kk@ifi.uio.no</a></td>
+    </tr>
+    <tr>
+      <td>Bokskap</td>
+      <td><a href="mailto:fui-bokskap@ifi.uio.no">fui-bokskap@ifi.uio.no</a></td>
+    </tr>
+    <tr>
+      <td>Andre henvendelser</td>
+      <td><a href="mailto:fui-leder@ifi.uio.no">fui-leder@ifi.uio.no</a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
 Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https://www.uio.no/studier/kontakt/si-fra/).
-<br>
-
-<form class="contact">
-  <div class="form-group col-xs-6">
-    <label for="exampleFormControlSelect1">Hva gjelder henvendelsen?</label>
-    <select class="form-control" id="exampleFormControlSelect1">
-      <option value="general">Generelle henvendelser</option>
-      <option value="alert">Klage/Bekymringsmelding</option>
-      <option value="kursevaluering">Kursevaluering</option>
-      <option value="lockers">Bokskap</option>
-      <option value="other">Annet</option>
-    </select>
-  </div>
-  <div class="form-group col-xs-6">
-      <label for="exampleFormControlInput1">Epost:</label>
-      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="">
-    </div>
-  <div class="form-group col-xs-6">
-      <label for="exampleFormControlInput1">Navn:</label>
-      <input type="text" class="form-control" id="name" placeholder="">
-  </div>
-  <div class="form-group col-xs-6">
-        <label for="exampleFormControlInput1">Emne:</label>
-        <input type="text" class="form-control" id="alert" placeholder="">
-    </div>
-  <div class="form-group col-xs-12">
-    <label for="exampleFormControlTextarea1">Innhold:</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-  </div>
-  <div class="submit">
-    <button type="button" class="btn btn-primary btn-lg btn-block col-xs-12">Send</button>
-  </div>
-</form>
-.
-<br>
