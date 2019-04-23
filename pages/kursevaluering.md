@@ -9,10 +9,10 @@ modeline: " vim: set spl=nb: "
 
 ---
 
-**Publisert kurskritikk**
+**Publisert kursevaluering**
 
 [Her](https://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/fui-kk/kursevaluering/)
-finner du den publiserte kurskritikken. Logg inn med uio-brukernavn og passord.
+finner du den publiserte kursevalueringen. Logg inn med uio-brukernavn og passord.
 <br><br>
 
 **For studenter**
@@ -27,7 +27,7 @@ Nettskjema som brukes for å samle inn data er laget av [USIT](https://www.usit.
 
 **For kursansvarlige**
 
-Data fra kurskritikken kan du finne
+Data fra kursevalueringen kan du finne
 [her](https://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/fui/info/kurs.html).
 
 Alle kursansvarlige kan få tilgang til de innsamlede dataene for sine kurs.
