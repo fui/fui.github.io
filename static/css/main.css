@@ -97,6 +97,10 @@
         margin-top: 126px;
         z-index: 0;
     }
+    .cont {
+	padding-left: 20px;
+	padding-right: 20px;
+    }
 }
 
 .sumbit {
