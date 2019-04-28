@@ -2,12 +2,12 @@
 	{
 		"title": "Publisert kursevaluering",
 		"href": "https://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/fui-kk/kursevaluering/",
-		"desc": "Se evaluering av fag ved Institutt for Informatikk fra tidligere stundeter. Dette er en direktelink til den publiserte kursevalueringen. Logg inn med uio-brukernavn og passord.",
+		"desc": "Se evaluering av fag ved Institutt for informatikk fra tidligere studeter. Dette er en lenke til den publiserte kursevalueringen. Logg inn med UiO-brukernavn og passord.",
 		"icon_class": "far fa-chart-bar",
 		"target": _blank
 	},
 	{
-		"title": "Betal for bokskap",
+		"title": "Betale for bokskap",
 		"href": "/bokskap",
 		"desc": "Informasjon om betaling av bokskap. \n",
 		"icon_class": "fas fa-unlock-alt"
@@ -15,7 +15,7 @@
 	{
 		"title": "Klage/bekymringsmelding",
 		"href": "/kontaktinformasjon",
-		"desc": "Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved IFI. \n",
+		"desc": "Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved Ifi. \n",
 		"icon_class": "fas fa-bullhorn"
 	}
 ]
