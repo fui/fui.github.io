@@ -16,9 +16,9 @@ UiO-brukernavnet står i parantes etter representantens navn. Ønsker du å kont
 
 **Instituttstyret**
 * Karl Hole Totland [(karlhto)](mailto:karlhto@ulrik.uio.no) – H18-V19
-* Zixuan Liu [(zixuanl)](mailto:zixuanl@ulrik.uio.no) – V18-H18
-* Vara: Ingeborg Nes [(ingebosn)](mailto:ingebosn@ulrik.uio.no) – V18-H18
-* Vara: Henrik Lilleengen [(henrilil)](mailto:henrilil@ulrik.uio.no) – V18-H18
+* Jeanette Kirkerud [(jeanetki)](mailto:jeanetki@ulrik.uio.no) – V19-H19
+* Vara: Dennis Norheim [(dennisno)](mailto:dennisno@ulrik.uio.no) – V19-H19
+* Vara: Elise Margarethe Lystad [(elisemly)](mailto:elisemly@ulrik.uio.no) – V19-H19
 <br><br>
 
 **Undervisningsutvalget**
