@@ -5,7 +5,7 @@ permalink: /representanter/
 modeline: " vim: set spl=nb: "
 ---
 
-# Studentrepresentanter
+## Studentrepresentanter
 
 ---
 
