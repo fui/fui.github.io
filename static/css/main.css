@@ -8,10 +8,10 @@
 .hidden-menu {
     display: none;
     position: fixed;
-    top: 126px;
+    top: 96px;
     left: 0;
     width: 100%;
-    height: calc(100% - 126px);
+    height: calc(100% - 96px);
     z-index:99;
     background-color: #800020;
     color: white;
@@ -89,12 +89,15 @@
         position: fixed;
         z-index: 1;
     }
+    .header-panel.shadow-z-2 {
+        padding: 15px 0 15px 0;
+    }
     .menu-img {
         display: block;
         z-index: 2;
     }
     .well {
-        margin-top: 126px;
+        margin-top: 96px;
         z-index: 0;
     }
     .cont {

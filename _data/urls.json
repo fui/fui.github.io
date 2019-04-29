@@ -10,7 +10,7 @@
     "icon": "fa-desktop"
   },
   {
-    "text": "Studentrepresentanter",
+    "text": "Representanter",
     "url": "/representanter",
     "icon": "fa-github"
   },
@@ -31,7 +31,7 @@
   },
   {
     "text": "Kontakt oss",
-    "url": "/kontaktinformasjon",
+    "url": "/kontakt",
     "icon": "fa-feed"
   }
 ]

@@ -13,8 +13,8 @@
 		"icon_class": "fas fa-unlock-alt"
 	},
 	{
-		"title": "Klage/bekymringsmelding",
-		"href": "/kontaktinformasjon",
+		"title": "Klage eller bekymringsmelding",
+		"href": "/kontakt",
 		"desc": "Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved Ifi. \n",
 		"icon_class": "fas fa-bullhorn"
 	}
