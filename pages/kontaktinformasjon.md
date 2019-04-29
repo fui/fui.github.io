@@ -24,7 +24,7 @@ Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ve
       <td><a href="mailto:fui@ififui.no">fui@ififui.no</a></td>
     </tr>
     <tr>
-      <td>Klage/bekymringsmelding</td>
+      <td>Klage eller bekymringsmelding</td>
       <td><a href="mailto:leder@ififui.no">leder@ififui.no</a></td>
     </tr>
     <tr>
