@@ -25,15 +25,15 @@ Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ve
     </tr>
     <tr>
       <td>Klage/bekymringsmelding</td>
-      <td><a href="mailto:fui-leder@ififui.no">fui-leder@ififui.no</a></td>
+      <td><a href="mailto:leder@ififui.no">leder@ififui.no</a></td>
     </tr>
     <tr>
       <td>Kursevaluering</td>
-      <td><a href="mailto:fui-kk@ififui.no">fui-kk@ififui.no</a></td>
+      <td><a href="mailto:ke@ififui.no">ke@ififui.no</a></td>
     </tr>
     <tr>
       <td>Bokskap</td>
-      <td><a href="mailto:fui-bokskap@ififui.no">fui-bokskap@ififui.no</a></td>
+      <td><a href="mailto:bokskap@ififui.no">bokskap@ififui.no</a></td>
     </tr>
   </tbody>
 </table>

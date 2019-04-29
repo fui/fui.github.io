@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Studentrepresentanter
+title: Representanter
 permalink: /representanter/
 modeline: " vim: set spl=nb: "
 ---
 
-## Studentrepresentanter
+# Representanter
 
 ---
 
