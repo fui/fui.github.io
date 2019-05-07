@@ -1,6 +1,6 @@
+# fui.github.io
 [![Build Status](https://travis-ci.org/fui/fui.github.io.svg?branch=master)](https://travis-ci.org/fui/fui.github.io)
 
-# fui.github.io
 FUI sin nye hjemmeside!
 
 ## Kjøring
@@ -21,13 +21,6 @@ død og liv ønsker å gjøre det selv, burde du kjøre:
 ## Bidrag
 Ønsker du å bidra? Send inn en PR (Pull Request) da vel! Er ingen krav til
 innhold annet enn at ting skal kjøre.
-
-## TODO
-- Kontaktskjema
-- Møtereferatside
-- "Drop down"-meny
-- Interaksjonsdesignmagi
-
 
 ## Tema
 Vi benytter oss av en modifisert variant av
