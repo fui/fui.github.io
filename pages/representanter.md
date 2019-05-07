@@ -36,8 +36,8 @@ Dette rådet er oppløst og hver linje skal ha sitt råd.
 <br><br>
 
 **Tilsettingsutvalget**
-* Henrik Lilleengen [(henrilil)](mailto:henrilil@ulrik.uio.no)  – V18-H18
-* Vara: Sigurd Rognhaugen [(sigurro)](mailto:sigurro@ulrik.uio.no) – V18-H18
+* Dennis Norheim [(dennisno)](mailto:dennisno@ulrik.uio.no)  – V19-H19
+* Vara: Henrik Lilleengen [(henrilil)](mailto:henrilil@ulrik.uio.no) – V19-H19
 <br><br>
 
 **Arbeidsmiljøutvalget**

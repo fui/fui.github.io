@@ -47,7 +47,7 @@ Ole-Johan Dahls hus.
 
 ### Kursevaluering
 Kursevaluering (KK) gjøres på slutten av hvert semester for alle kursene på
-Ifi. Det sendes ut invitasjoner til alle studentene påmeldt hvert kurs. En
+IFI. Det sendes ut invitasjoner til alle studentene påmeldt hvert kurs. En
 oversikt over tilgjengelige skjemaer finnes på `nettskjema.uio.no`
 
 Nettskjema som brukes for å samle inn data er laget av
