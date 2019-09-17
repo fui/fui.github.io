@@ -27,13 +27,13 @@ UiO-brukernavnet står i parentes etter representantens navn. Ønsker du
 **Undervisningsutvalget**
 * Jeanette Kirkerud [(jeanetki)](mailto:jeanetki@ulrik.uio.no) – H19-V20
 * Tonje Røyeng [(tonjro)](mailto:tonjro@ulrik.uio.no) – H19-V20
-* Anja Gjerpe [(anjamg)](mailto:anjamg@ulrik.uio.no) – V19-H19
+* Kari Eldfrid [(kariesta)](mailto:kariesta@ulrik.uio.no) – V19-H19
 * Vara: Bjørn Fridtjof Arisland [(bjornfar)](mailto:bjornfar@ulrik.uio.no) – H19-V20
 * Vara: Dennis Norheim [(dennisno)](mailto:dennisno@ulrik.uio.no) – H19-V20
 * Vara: Burhan Mohammad Sarfraz [(burhanms)](mailto:burhanms@ulrik.uio.no) – H19-V20
 <br><br>
 
-**Programrådet for Informatikk**
+**Programrådene for Informatikk**
 
 Dette rådet er oppløst og hver linje skal ha sitt råd.
 <br><br>
