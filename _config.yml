@@ -27,6 +27,7 @@ exclude:
 plugin:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-redirect-from
 
 defaults:
   - scope:
