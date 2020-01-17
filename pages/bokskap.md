@@ -9,7 +9,7 @@ modeline: " vim: set spl=nb: "
 
 ---
 
-1. Okkuper et skap i 3. etasje (hengelås)
+1. Okkuper et skap i 3. - 10. etasje (hengelås)
 2. Betal 30,- NOK med vipps med en gang:
     * Åpne vipps
     * Gå til "Kjøp og betal"
@@ -24,7 +24,7 @@ Leien er ikke gyldig før alle steg er gjennomført korrekt.
 ---
 
 Fagutvalget ved Institutt for Informatikk tilbyr bokskap som studenter kan ta
-i bruk, disse finner du i 3. etasje i OJD. <br><br> **Frister**
+i bruk, disse finner du i 3. - 10. etasje i OJD. <br><br> **Frister**
 
 Betaling: Skap som ikke er betalt innen fristen, vil klippes og tømmes i løpet
 av én uke.
