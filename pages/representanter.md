@@ -18,8 +18,6 @@ UiO-brukernavnet står i parentes etter representantens navn. Ønsker du
 \<brukernavn\>@ulrik.uio.no.
 <br><br>
 
-[()](mailto:@ulrik.uio.no) – V20-H20
-
 **Instituttstyret**
 * Markus Pedersen Baraa [(markuspb)](mailto:markuspb@ulrik.uio.no) – H19-V20
 * Stian Øverby [(stiaov)](mailto:stiaov@ulrik.uio.no) – V20-H20
