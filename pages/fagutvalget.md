@@ -59,14 +59,19 @@ svarer.
 
 ---
 
-Fagutvalgets medlemmer fra og med høsten 2019 er:
+Fagutvalgets medlemmer fra og med våren 2020 er:
+
 
 * Dennis Norheim (dennisno)
+* Vetle Utvik (vetleu)
 * Jeanette Kirkerud (jeanetki)
-* Kari Eldfrid Stamnes (kariesta)
+* Johanne Thunes (johanthu)
+* Eirik Berg (eirberg)
+* Stian Øverby (stiaov)
+* Ole Kostøl (olekost)
+* Sander Helgesn (sehelges)
+* Mathias Østby (maostby)
 * Ingeborg Storesund Nes (ingebosn)
-* Tonje Røyeng (tonjro)
 * Julie Eldøy (julieeld)
-- Bjørn Fridtjof Arisland (bjornfar)
-- Jonas Arnesen Baer (jonasaba)
-- Burhan Mohammad Sarfraz (burhanms)
+* Bjørn Fridtjof Arisland (bjornfar)
+* Burhan Mohammad Sarfraz (burhanms)

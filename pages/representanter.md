@@ -18,17 +18,20 @@ UiO-brukernavnet står i parentes etter representantens navn. Ønsker du
 \<brukernavn\>@ulrik.uio.no.
 <br><br>
 
+[()](mailto:@ulrik.uio.no) – V20-H20
+
 **Instituttstyret**
 * Markus Pedersen Baraa [(markuspb)](mailto:markuspb@ulrik.uio.no) – H19-V20
-* Jeanette Kirkerud [(jeanetki)](mailto:jeanetki@ulrik.uio.no) – V19-H19
-* Vara: Dennis Norheim [(dennisno)](mailto:dennisno@ulrik.uio.no) – V19-H19
+* Stian Øverby [(stiaov)](mailto:stiaov@ulrik.uio.no) – V20-H20
+* Ingrid Cornelia Drougge Vassbotn – V20-H20
+* Vetle Alvenes Utvik [(vetleu)](mailto:vetleu@ulrik.uio.no) – V20-H20
 * Vara: Julie Eldøy [(julieeld)](mailto:julieeld@ulrik.uio.no) – H19-V20
 <br><br>
 
 **Undervisningsutvalget**
 * Jeanette Kirkerud [(jeanetki)](mailto:jeanetki@ulrik.uio.no) – H19-V20
 * Tonje Røyeng [(tonjro)](mailto:tonjro@ulrik.uio.no) – H19-V20
-* Kari Eldfrid Stamnes [(kariesta)](mailto:kariesta@ulrik.uio.no) – V19-H19
+* Stian Øverby [(stiaov)](mailto:stiaov@ulrik.uio.no) – V20-H20
 * Vara: Bjørn Fridtjof Arisland [(bjornfar)](mailto:bjornfar@ulrik.uio.no) – H19-V20
 * Vara: Dennis Norheim [(dennisno)](mailto:dennisno@ulrik.uio.no) – H19-V20
 * Vara: Burhan Mohammad Sarfraz [(burhanms)](mailto:burhanms@ulrik.uio.no) – H19-V20
@@ -45,8 +48,13 @@ Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https
 <br><br>
 
 **Tilsettingsutvalget**
-* Dennis Norheim [(dennisno)](mailto:dennisno@ulrik.uio.no)  – V19-H19
-* Vara: Henrik Lilleengen [(henrilil)](mailto:henrilil@ulrik.uio.no) – V19-H19
+* Ole Kostøl [(olekost)](mailto:olekost@ulrik.uio.no)  – V20-H20
+* Vara: Eirik Solheim Ølberg - V20-H20
+<br><br>
+
+**Prosjektgruppe for balansert mangfold**
+* Kari Eldfrid Stamnes – V20-H20
+* Burhan Mohammad Sarfraz [(burhanms)](mailto:burhanms@ulrik.uio.no) – V20-H20
 <br><br>
 
 **Arbeidsmiljøutvalget**
