@@ -5,12 +5,12 @@ permalink: /bokskap/
 modeline: " vim: set spl=nb: "
 ---
 
-# OBS! Bokskap i 2020
+# COVID-19 og bokskap i 2020
 
 ---
 
 Dersom du har hatt bokskap våren 2020, har du mulighet til å tømme skapet ut august 2020. Det vil **IKKE** være
-mulig å leie bokskap høsten 2020
+mulig å leie bokskap høsten 2020. Du kan kontakte administrasjonen for å avtale tidspunkt for tømming på: <sharmilp@ifi.uio.no>.
 
 # Leie av bokskap
 
