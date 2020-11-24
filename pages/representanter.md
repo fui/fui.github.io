@@ -22,7 +22,7 @@ UiO-brukernavnet står i parentes etter representantens navn. Ønsker du
 * Stian Øverby [(stiaov)](mailto:stiaov@ulrik.uio.no) – V20-H20
 * Ingrid Cornelia Drougge Vassbotn – V20-H20
 * Vetle Alvenes Utvik [(vetleu)](mailto:vetleu@ulrik.uio.no) – V20-H20
-* Vara: Johanne Thunes [(johanthu)](mailto:johanthu@ulrik.uio.no) – H19-V20
+* Vara: Johanne Thunes [(johanthu)](mailto:johanthu@ulrik.uio.no) – H20-V21
 <br><br>
 
 **Undervisningsutvalget**
