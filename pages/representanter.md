@@ -22,16 +22,16 @@ UiO-brukernavnet står i parentes etter representantens navn. Ønsker du
 * Stian Øverby [(stiaov)](mailto:stiaov@ulrik.uio.no) – V20-H20
 * Ingrid Cornelia Drougge Vassbotn – V20-H20
 * Vetle Alvenes Utvik [(vetleu)](mailto:vetleu@ulrik.uio.no) – V20-H20
-* Vara: Julie Eldøy [(julieeld)](mailto:julieeld@ulrik.uio.no) – H19-V20
+* Vara: Johanne Thunes [(johanthu)](mailto:johanthu@ulrik.uio.no) – H19-V20
 <br><br>
 
 **Undervisningsutvalget**
-* Jeanette Kirkerud [(jeanetki)](mailto:jeanetki@ulrik.uio.no) – H19-V20
-* Tonje Røyeng [(tonjro)](mailto:tonjro@ulrik.uio.no) – H19-V20
+* Burhan Mohammad Sarfraz [(burhanms)](mailto:burhanms@ulrik.uio.no) – H20-V21
+* Cornelia Drougge Vassbotn [(icvassbo)](mailto:icvassbo@student.matnat.uio.no) – H20-V21
 * Stian Øverby [(stiaov)](mailto:stiaov@ulrik.uio.no) – V20-H20
-* Vara: Bjørn Fridtjof Arisland [(bjornfar)](mailto:bjornfar@ulrik.uio.no) – H19-V20
-* Vara: Dennis Norheim [(dennisno)](mailto:dennisno@ulrik.uio.no) – H19-V20
-* Vara: Burhan Mohammad Sarfraz [(burhanms)](mailto:burhanms@ulrik.uio.no) – H19-V20
+* Vara: Vetle Utvik [(vetleu)](mailto:vetleu@uio.no) – H20-V21
+* Vara: Johanne Thunes [(johanthu)](mailto:johanthu@student.matnat.uio.no) – H20-V21
+* Vara: Jeanette Kirkerud [(jeanetki)](mailto:jeanetki@ulrik.uio.no) – H20-V21
 <br><br>
 
 **Programrådene for Informatikk**<br>
@@ -55,5 +55,5 @@ Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https
 <br><br>
 
 **Arbeidsmiljøutvalget**
-* Burhan Mohammad Sarfraz [(buurhanms)](mailto:burhanms@ulrik.uio.no) – H19-V20
-* Vara: Dennis Norheim [(dennisno)](mailto:dennisno@ulrik.uio.no) – H19-V20
+* Karl Korslund [(karlkor)](mailto:karlkor@uio.no) – H20-V21
+* Vara: Vetle Utvik [(vetleu)](mailto:vetleu@uio.no) – H20-V21
