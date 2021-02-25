@@ -59,19 +59,18 @@ svarer.
 
 ---
 
-Fagutvalgets medlemmer fra og med våren 2020 er:
+Fagutvalgets medlemmer fra og med våren 2021 er:
 
 
 * Vetle Utvik ([vetleu](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=vetleu))
-* Eirik Berg ([eirberg](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=vetleu))
+* Victoria Kleiv Müller ([victorkm](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=victorkm))
+* Eirik Berg ([eirberg](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=eirberg))
 * Johanne Thunes ([johanthu](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=johanthu))
 * Ahmed Saeed ([ahmedws](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ahmedws))
-* Stian Øverby ([stiaov](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=stiaov))
-* Sander Helgesn ([sehelges](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=sehelges))
-* Mathias Østby ([maostby](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=maostby))
 * Bjørn Fridtjof Arisland ([bjornfar](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=bjornfar))
-* Alina Krogstad (gretheak)
+* Alina Krogstad ([gretheak](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=gretheak))
 * Cornelia Drougge Vasbotn ([icvassbo](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=icvassbo))
 * Karl Korslund ([karlkor](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=karlkor))
 * Magnus Hjorth ([magnuahj](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=magnuahj))
-* Victoria Kleiv Müller ([victorkm](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=victorkm))
+* Eirik Ølberg ([eirikolb](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=eirikolb))
+* Eir Linnea Glimsdal ([eirlg](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=eirlg))
