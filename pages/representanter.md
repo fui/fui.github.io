@@ -19,16 +19,16 @@ UiO-brukernavnet står i parentes etter representantens navn. Ønsker du
 <br><br>
 
 **Instituttstyret**
-* Stian Øverby [(stiaov)](mailto:stiaov@ulrik.uio.no) – V20-H20
-* Ingrid Cornelia Drougge Vassbotn – V20-H20
-* Vetle Alvenes Utvik [(vetleu)](mailto:vetleu@ulrik.uio.no) – V20-H20
+* Eirik Berg [(eirberg)](mailto:eirberg@ulrik.uio.no) – V21
+* Ingrid Cornelia Drougge Vassbotn [icvassbo](mailto:icvassbo@ifi.uio.no) – V21-H21
+* Vara: Vetle Alvenes Utvik [(vetleu)](mailto:vetleu@ulrik.uio.no) – V21-H21
 * Vara: Johanne Thunes [(johanthu)](mailto:johanthu@ulrik.uio.no) – H20-V21
 <br><br>
 
 **Undervisningsutvalget**
 * Burhan Mohammad Sarfraz [(burhanms)](mailto:burhanms@ulrik.uio.no) – H20-V21
 * Cornelia Drougge Vassbotn [(icvassbo)](mailto:icvassbo@student.matnat.uio.no) – H20-V21
-* Stian Øverby [(stiaov)](mailto:stiaov@ulrik.uio.no) – V20-H20
+* Alina Krogstad [(gretheak)](mailto:gretheak@ulrik.uio.no) – V21-H21
 * Vara: Vetle Utvik [(vetleu)](mailto:vetleu@uio.no) – H20-V21
 * Vara: Johanne Thunes [(johanthu)](mailto:johanthu@student.matnat.uio.no) – H20-V21
 * Vara: Jeanette Kirkerud [(jeanetki)](mailto:jeanetki@ulrik.uio.no) – H20-V21
@@ -45,13 +45,13 @@ Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https
 <br><br>
 
 **Tilsettingsutvalget**
-* Ole Kostøl [(olekost)](mailto:olekost@ulrik.uio.no)  – V20-H20
-* Vara: Eirik Solheim Ølberg - V20-H20
+* Magnus Hjort [(magnuahj)](mailto:magnuahj@ulrik.uio.no)  – V21-H21
+* Vara: Johanne Thunes [(johanthu)](mailto:johanthu@student.matnat.uio.no) - V21-H21
 <br><br>
 
 **Prosjektgruppe for balansert mangfold**
-* Kari Eldfrid Stamnes – V20-H20
-* Burhan Mohammad Sarfraz [(burhanms)](mailto:burhanms@ulrik.uio.no) – V20-H20
+* Ikke fylt, FUI kan etterfylle – V21-H21
+* Vara: Ikke fylt, FUI kan etterfylle – V21-H21
 <br><br>
 
 **Arbeidsmiljøutvalget**
