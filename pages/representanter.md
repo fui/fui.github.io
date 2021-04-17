@@ -35,7 +35,7 @@ UiO-brukernavnet står i parentes etter representantens navn. Ønsker du
 <br><br>
 
 **Programrådene for Informatikk**<br>
-Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/). Per 18. September 2019 er studentrepresentantene som følger:
+Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/). Per 15. April 2021 er studentrepresentantene som følger:
 * *Design:* Julie Vatnebryn Thoen, Chris Kløv Andersen & Vetle Utvik. 
 * *Prosa:* Sivert Schou Olsen [(siverto)](mailto:siverto@ulrik.uio.no), Tonje Røyeng [(tonjro)](mailto:tonjro@ulrik.uio.no), Petter Sæther Moen & Mattis Bratland.
 * *Digøk:* Eivind Grønlund [(eivigr)](mailto:eivigr@ulrik.uio.no), Cecilie Isdahl [(cecilisd)](mailto:cecilisd@ulrik.uio.no), Anna Elise Dæhlen & Elias Ramsvik 
