@@ -38,7 +38,7 @@ UiO-brukernavnet står i parentes etter representantens navn. Ønsker du
 Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/). Per 18. September 2019 er studentrepresentantene som følger:
 * *Design:* Julie Vatnebryn Thoen, Chris Kløv Andersen & Vetle Utvik. 
 * *Prosa:* Sivert Schou Olsen [(siverto)](mailto:siverto@ulrik.uio.no), Tonje Røyeng [(tonjro)](mailto:tonjro@ulrik.uio.no), Petter Sæther Moen & Mattis Bratland.
-* *Digøk:* Eivind Grønlund [(eivigr)](mailto:eivigr@ulrik.uio.no), Cecilie Isdahl [(cecilisd)](mailto:cecilisd@ulrik.uio.no), Anna Elise Dæhlen [(annaed)(mailto:annaed@ulrik.uio.no) & Elias Ramsvik [(eliassr)](mailto:eliassr@ifi.uio.no)
+* *Digøk:* Eivind Grønlund [(eivigr)](mailto:eivigr@ulrik.uio.no), Cecilie Isdahl [(cecilisd)](mailto:cecilisd@ulrik.uio.no), Anna Elise Dæhlen & Elias Ramsvik 
 * *Robotikk:* Eirik Berg, Burhan Mohammad Sarfraz, Sara Hasse Joannesen, Eirik Solheim Ølberg & Jørgen Petlund.
 * *Språkteknologi:* Kaisa Korsak [(katarkor)](mailto:katarkor@ulrik.uio.no) & Nikolas Martin [(nikolhm)](mailto:nikolhm@ulrik.uio.no)
 * *Entrepenørskap:* Niklas Tyler Husefest [(niklah)](mailto:niklah@ulrik.uio.no)
