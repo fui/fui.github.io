@@ -59,18 +59,43 @@ svarer.
 
 ---
 
-Fagutvalgets medlemmer fra og med våren 2021 er:
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Sentrale verv</th>
+      <th scope="col">Innehaver</th>
+      <th scope="col">UiO-ID</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Leder</td>
+      <td>Alina Krogstad</td>
+      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=gretheak">gretheak</a></td>
+    </tr>
+    <tr>
+      <td>Nestleder</td>
+       <td>Victoria Kleiv Müller</td>
+      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=victorkm">victorkm</a></td>
+    </tr>
+    <tr>
+      <td>Økonomiansvarlig</td>
+       <td>Olav Haaland Moseng</td>
+      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=olavhmos">olavhmos</a></td>
+    </tr>
+  </tbody>
+</table>
+
+Fagutvalgets øvrige medlemmer fra og med høsten 2021 er:
 
 
-* Vetle Utvik ([vetleu](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=vetleu))
-* Victoria Kleiv Müller ([victorkm](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=victorkm))
-* Eirik Berg ([eirberg](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=eirberg))
 * Johanne Thunes ([johanthu](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=johanthu))
-* Ahmed Saeed ([ahmedws](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ahmedws))
 * Bjørn Fridtjof Arisland ([bjornfar](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=bjornfar))
-* Alina Krogstad ([gretheak](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=gretheak))
-* Cornelia Drougge Vasbotn ([icvassbo](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=icvassbo))
-* Karl Korslund ([karlkor](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=karlkor))
-* Magnus Hjorth ([magnuahj](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=magnuahj))
-* Eirik Ølberg ([eirikolb](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=eirikolb))
+* Eirik Solheim Ølberg ([eirikolb](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=eirikolb))
 * Eir Linnea Glimsdal ([eirlg](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=eirlg))
+* Annika Willoch Olstad ([annikaol](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=annikaol))
+* Ingeborg Steel ([ingebows](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ingebows))
+* Sunniva Sol Standnes Blix ([ssblix](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ssblix))
+* Tram Bich Michelle Nguyen ([tbnguyen](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=tbnguyen))
+* Ada Akalin Akkøk ([adaaak](https://www.mn.uio.no/?vrtx=person-view&uid=adaaak))
+* Liv Hilde Sjøflot ([livhsj](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=livhsj))
