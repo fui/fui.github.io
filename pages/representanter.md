@@ -19,19 +19,19 @@ UiO-brukernavnet står i parentes etter representantens navn. Ønsker du
 <br><br>
 
 **Instituttstyret**
-* Eirik Berg [(eirberg)](mailto:eirberg@ulrik.uio.no) – V21
-* Ingrid Cornelia Drougge Vassbotn [icvassbo](mailto:icvassbo@ifi.uio.no) – V21-H21
+* Hjalmar Andersen [(hjalmara)](mailto:hjalmara@ifi.uio.no) – H21-V22
+* Ingrid Cornelia Drougge Vassbotn [(icvassbo)](mailto:icvassbo@ifi.uio.no) – V21-H21
 * Vara: Vetle Alvenes Utvik [(vetleu)](mailto:vetleu@ulrik.uio.no) – V21-H21
-* Vara: Johanne Thunes [(johanthu)](mailto:johanthu@ulrik.uio.no) – H20-V21
+* Vara: Johanne Thunes [(johanthu)](mailto:johanthu@ulrik.uio.no) – H21-V22
 <br><br>
 
 **Undervisningsutvalget**
-* Burhan Mohammad Sarfraz [(burhanms)](mailto:burhanms@ulrik.uio.no) – H20-V21
-* Cornelia Drougge Vassbotn [(icvassbo)](mailto:icvassbo@student.matnat.uio.no) – H20-V21
+* Olav Haaland Moseng [(olavhmos)](mailto:olavhmos@ifi.uio.no) – H21-V22
+* Johanne Thunes [(johanthu)](mailto:johanthu@ulrik.uio.no) – H21-V22
 * Alina Krogstad [(gretheak)](mailto:gretheak@ulrik.uio.no) – V21-H21
-* Vara: Vetle Utvik [(vetleu)](mailto:vetleu@uio.no) – H20-V21
-* Vara: Johanne Thunes [(johanthu)](mailto:johanthu@student.matnat.uio.no) – H20-V21
-* Vara: Jeanette Kirkerud [(jeanetki)](mailto:jeanetki@ulrik.uio.no) – H20-V21
+* Vara: Eirik Solheim Ølberg [(eirikolb)](mailto:eirikolb@ifi.uio.no) – H21-V22
+* Vara: Ingeborg Steel [(ingebows)](mailto:ingebows@uio.no) – H21-V22
+* Vara: Sunniva Sol Standnes Blix [(ssblix)](mailto:ssblix@uio.no) – H21
 <br><br>
 
 **Programrådene for Informatikk**<br>
