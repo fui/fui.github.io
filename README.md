@@ -1,5 +1,5 @@
 # fui.github.io
-[![Build Status](https://travis-ci.org/fui/fui.github.io.svg?branch=master)](https://travis-ci.org/fui/fui.github.io)
+![Build Status](https://github.com/fui/fui.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
 FUI sin nye hjemmeside!
 
