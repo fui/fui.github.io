@@ -19,41 +19,41 @@ UiO-brukernavnet står i parentes etter representantens navn. Ønsker du
 <br><br>
 
 **Instituttstyret**
-* Stian Øverby [(stiaov)](mailto:stiaov@ulrik.uio.no) – V20-H20
-* Ingrid Cornelia Drougge Vassbotn – V20-H20
-* Vetle Alvenes Utvik [(vetleu)](mailto:vetleu@ulrik.uio.no) – V20-H20
-* Vara: Julie Eldøy [(julieeld)](mailto:julieeld@ulrik.uio.no) – H19-V20
+* Hjalmar Andersen [(hjalmara)](mailto:hjalmara@ifi.uio.no) – H21-V22
+* Ingrid Cornelia Drougge Vassbotn [(icvassbo)](mailto:icvassbo@ifi.uio.no) – V21-H21
+* Vara: Vetle Alvenes Utvik [(vetleu)](mailto:vetleu@ulrik.uio.no) – V21-H21
+* Vara: Johanne Thunes [(johanthu)](mailto:johanthu@ulrik.uio.no) – H21-V22
 <br><br>
 
 **Undervisningsutvalget**
-* Jeanette Kirkerud [(jeanetki)](mailto:jeanetki@ulrik.uio.no) – H19-V20
-* Tonje Røyeng [(tonjro)](mailto:tonjro@ulrik.uio.no) – H19-V20
-* Stian Øverby [(stiaov)](mailto:stiaov@ulrik.uio.no) – V20-H20
-* Vara: Bjørn Fridtjof Arisland [(bjornfar)](mailto:bjornfar@ulrik.uio.no) – H19-V20
-* Vara: Dennis Norheim [(dennisno)](mailto:dennisno@ulrik.uio.no) – H19-V20
-* Vara: Burhan Mohammad Sarfraz [(burhanms)](mailto:burhanms@ulrik.uio.no) – H19-V20
+* Olav Haaland Moseng [(olavhmos)](mailto:olavhmos@ifi.uio.no) – H21-V22
+* Johanne Thunes [(johanthu)](mailto:johanthu@ulrik.uio.no) – H21-V22
+* Alina Krogstad [(gretheak)](mailto:gretheak@ulrik.uio.no) – V21-H21
+* Vara: Eirik Solheim Ølberg [(eirikolb)](mailto:eirikolb@ifi.uio.no) – H21-V22
+* Vara: Ingeborg Steel [(ingebows)](mailto:ingebows@uio.no) – H21-V22
+* Vara: Sunniva Sol Standnes Blix [(ssblix)](mailto:ssblix@uio.no) – H21
 <br><br>
 
 **Programrådene for Informatikk**<br>
-Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/). Per 18. September 2019 er studentrepresentantene som følger:
-* *Design:* Andreas Truchs [(andrelt)](mailto:andrelt@ulrik.uio.no)
-* *Prosa:* Sivert Schou Olsen [(siverto)](mailto:siverto@ulrik.uio.no) & Tonje Røyeng [(tonjro)](mailto:tonjro@ulrik.uio.no)
-* *Digøk:* Julie Eldøy [(julieeld)](mailto:julieeld@ulrik.uio.no) & Eivind Grønlund [(eivigr)](mailto:eivigr@ulrik.uio.no) & Olav Haaland Moseng [(olavhmos)](mailto:olavhmos@ulrik.uio.no)
-* *Robotikk:* Anders Rønningstad
+Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/). Per 15. April 2021 er studentrepresentantene som følger:
+* *Design:* Julie Vatnebryn Thoen, Chris Kløv Andersen & Vetle Utvik. 
+* *Prosa:* Sivert Schou Olsen [(siverto)](mailto:siverto@ulrik.uio.no), Tonje Røyeng [(tonjro)](mailto:tonjro@ulrik.uio.no), Petter Sæther Moen & Mattis Bratland.
+* *Digøk:* Eivind Grønlund [(eivigr)](mailto:eivigr@ulrik.uio.no), Cecilie Isdahl [(cecilisd)](mailto:cecilisd@ulrik.uio.no), Anna Elise Dæhlen & Elias Ramsvik 
+* *Robotikk:* Eirik Berg, Burhan Mohammad Sarfraz, Sara Hasse Joannesen, Eirik Solheim Ølberg & Jørgen Petlund.
 * *Språkteknologi:* Kaisa Korsak [(katarkor)](mailto:katarkor@ulrik.uio.no) & Nikolas Martin [(nikolhm)](mailto:nikolhm@ulrik.uio.no)
 * *Entrepenørskap:* Niklas Tyler Husefest [(niklah)](mailto:niklah@ulrik.uio.no)
 <br><br>
 
 **Tilsettingsutvalget**
-* Ole Kostøl [(olekost)](mailto:olekost@ulrik.uio.no)  – V20-H20
-* Vara: Eirik Solheim Ølberg - V20-H20
+* Magnus Hjort [(magnuahj)](mailto:magnuahj@ulrik.uio.no)  – V21-H21
+* Vara: Johanne Thunes [(johanthu)](mailto:johanthu@student.matnat.uio.no) - V21-H21
 <br><br>
 
 **Prosjektgruppe for balansert mangfold**
-* Kari Eldfrid Stamnes – V20-H20
-* Burhan Mohammad Sarfraz [(burhanms)](mailto:burhanms@ulrik.uio.no) – V20-H20
+* Ikke fylt, FUI kan etterfylle – V21-H21
+* Vara: Ikke fylt, FUI kan etterfylle – V21-H21
 <br><br>
 
 **Arbeidsmiljøutvalget**
-* Burhan Mohammad Sarfraz [(buurhanms)](mailto:burhanms@ulrik.uio.no) – H19-V20
-* Vara: Dennis Norheim [(dennisno)](mailto:dennisno@ulrik.uio.no) – H19-V20
+* Karl Korslund [(karlkor)](mailto:karlkor@uio.no) – H20-V21
+* Vara: Vetle Utvik [(vetleu)](mailto:vetleu@uio.no) – H20-V21

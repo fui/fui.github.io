@@ -59,19 +59,43 @@ svarer.
 
 ---
 
-Fagutvalgets medlemmer fra og med våren 2020 er:
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Sentrale verv</th>
+      <th scope="col">Innehaver</th>
+      <th scope="col">UiO-ID</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Leder</td>
+      <td>Alina Krogstad</td>
+      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=gretheak">gretheak</a></td>
+    </tr>
+    <tr>
+      <td>Nestleder</td>
+       <td>Victoria Kleiv Müller</td>
+      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=victorkm">victorkm</a></td>
+    </tr>
+    <tr>
+      <td>Økonomiansvarlig</td>
+       <td>Olav Haaland Moseng</td>
+      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=olavhmos">olavhmos</a></td>
+    </tr>
+  </tbody>
+</table>
+
+Fagutvalgets øvrige medlemmer fra og med høsten 2021 er:
 
 
-* Dennis Norheim (dennisno)
-* Vetle Utvik (vetleu)
-* Jeanette Kirkerud (jeanetki)
-* Johanne Thunes (johanthu)
-* Eirik Berg (eirberg)
-* Stian Øverby (stiaov)
-* Ole Kostøl (olekost)
-* Sander Helgesn (sehelges)
-* Mathias Østby (maostby)
-* Ingeborg Storesund Nes (ingebosn)
-* Julie Eldøy (julieeld)
-* Bjørn Fridtjof Arisland (bjornfar)
-* Burhan Mohammad Sarfraz (burhanms)
+* Johanne Thunes ([johanthu](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=johanthu))
+* Bjørn Fridtjof Arisland ([bjornfar](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=bjornfar))
+* Eirik Solheim Ølberg ([eirikolb](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=eirikolb))
+* Eir Linnea Glimsdal ([eirlg](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=eirlg))
+* Annika Willoch Olstad ([annikaol](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=annikaol))
+* Ingeborg Steel ([ingebows](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ingebows))
+* Sunniva Sol Standnes Blix ([ssblix](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ssblix))
+* Tram Bich Michelle Nguyen ([tbnguyen](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=tbnguyen))
+* Ada Akalin Akkøk ([adaaak](https://www.mn.uio.no/?vrtx=person-view&uid=adaaak))
+* Liv Hilde Sjøflot ([livhsj](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=livhsj))
