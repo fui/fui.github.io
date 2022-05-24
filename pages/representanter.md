@@ -40,6 +40,6 @@ Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https
 [**Lokalt arbeidsmiljøutvalg (LAMU)**](https://www.mn.uio.no/ifi/om/hms/LAMU/index.html)
 <br><br>
 
-**Oversikt over alle utvalg**
+**Oversikt over alle utvalg**<br>
 For oversikt over alle råd og utvalg ved IFI se: 
 [https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/index.html](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/index.html)
