@@ -18,14 +18,10 @@ For kontaktinformasjon (uio-brukernavn) anbefales det å gå inn på ssh "bruker
 Videre får du da en liste med informasjon, slik som brukernavn. Send deretter en mail til "brukernavn"@uio.no
 <br><br>
 
-**Instituttstyret**
-Kan finnes her: 
-https://www.mn.uio.no/ifi/om/organisasjon/styret/
+[**Instituttstyret**](https://www.mn.uio.no/ifi/om/organisasjon/styret/)
 <br><br>
 
-**Undervisningsutvalget**
-Kan finnes her: 
-https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/undervisningsutvalget/
+[**Undervisningsutvalget**](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/undervisningsutvalget/)
 <br><br>
 
 **Programrådene for Informatikk**<br>
@@ -38,16 +34,12 @@ Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https
 * [*Entrepenørskap*](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/entrep/index.html)
 <br><br>
 
-**Ansettelsesutvalget**
-Kan finnes her: 
-https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/tilsettingsutvalget/index.html
+[**Ansettelsesutvalget**](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/tilsettingsutvalget/index.html)
 <br><br>
 
-**Lokalt arbeidsmiljøutval**
-Kan finnes her: 
-https://www.mn.uio.no/ifi/om/hms/LAMU/index.html
-
+[**Lokalt arbeidsmiljøutvalg (LAMU)**](https://www.mn.uio.no/ifi/om/hms/LAMU/index.html)
+<br><br>
 
 **Oversikt over alle utvalg**
 For oversikt over alle råd og utvalg ved IFI se: 
-https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/index.html
+[https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/index.html](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/index.html)
