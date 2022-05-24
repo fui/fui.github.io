@@ -44,7 +44,8 @@ modeline: " vim: set spl=nb: "
 4. Studenten må selv sørge for at tidsfrister o.l. blir overholdt. Dvs. at FUI har rett til å sjekke over bokskapene dagen etter for så å klippe skap som ikke er registrert. Registreringen skjer i en liste som er alltid oppdatert.
 
 
-#### PS: Skapet er IKKE registrert på studenten før leien er betalt.** **Betal så fort som mulig etter du har okkupert et skap.**
+#### **PS: Skapet er IKKE registrert på studenten før leien er betalt.** 
+**Betal så fort som mulig etter du har okkupert et skap.**
 
 
 ## **Kontroll og åpning av bokskap**
