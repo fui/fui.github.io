@@ -31,8 +31,7 @@ Data fra kursevalueringen kan du finne
 [her](https://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/fui/info/kurs.html).
 
 Alle kursansvarlige kan få tilgang til de innsamlede dataene for sine kurs.
-Hvis du ikke har tilgang til ditt kurs kan du få det ved å sende e-post til
-fui-kk@ifi.uio.no. eller kursevaluering@ififuio.no
+Hvis du ikke har tilgang til ditt kurs kan du få det ved å sende e-post til ke@ififui.no
 <br><br>
 
 **Open Source**

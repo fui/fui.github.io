@@ -39,7 +39,7 @@ Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ve
 </table>
 <br>
 
-Hvis du har noen andre generelle tilbakemeldinger, klager, ris eller ros, kan du skrive det anonymt på [denne lenken](https://response.questback.com/questback/fuiklager/).
-<br>
+<!-- Hvis du har noen andre generelle tilbakemeldinger, klager, ris eller ros, kan du skrive det anonymt på [denne lenken](https://response.questback.com/questback/fuiklager/).
+<br> -->
 
 Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https://www.uio.no/studier/kontakt/si-fra/).
