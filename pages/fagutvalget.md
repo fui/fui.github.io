@@ -70,30 +70,28 @@ svarer.
   <tbody>
     <tr>
       <td>Leder</td>
-      <td>Ada Akalin Akkøk</td>
-      <td><a href="https://www.mn.uio.no/?vrtx=person-view&uid=adaaak">adaaak</a></td>
+      <td>Rifat Naim</td>
+      <td><a href="https://www.mn.uio.no/?vrtx=person-view&uid=mrislam">mrislam</a></td>
     </tr>
     <tr>
       <td>Nestleder</td>
-       <td>Rifat Naim</td>
-      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=mrislam">mrislam</a></td>
+       <td>Sunniva Sol Standnes Blix</td>
+      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ssblix">ssblix</a></td>
     </tr>
     <tr>
       <td>Økonomiansvarlig</td>
-       <td>Olav Haaland Moseng</td>
-      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=olavhmos">olavhmos</a></td>
+       <td>Helene Nordrum Grun</td>
+      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=helenng">helenng</a></td>
     </tr>
   </tbody>
 </table>
 
-Fagutvalgets øvrige medlemmer fra og med våren 2022 er:
+Fagutvalgets øvrige medlemmer fra og med våren 2023 er:
 
-
-* Johanne Thunes ([johanthu](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=johanthu))
-* Bjørn Fridtjof Arisland ([bjornfar](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=bjornfar))
-* Eir Linnea Glimsdal ([eirlg](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=eirlg))
-* Ingeborg Steel ([ingebows](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ingebows))
-* Sunniva Sol Standnes Blix ([ssblix](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ssblix))
-* Tram Bich Michelle Nguyen ([tbnguyen](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=tbnguyen))
-* Liv Hilde Sjøflot ([livhsj](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=livhsj))
+* Julie Grihamar ([juliegri](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=juliegri))
+* Kavin Thas ([kavint](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=kavint))
+* Miriam Adara Thon Flaarønning ([miriamtf](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=miriamtf))
 * Peter Petersen-Øverleir ([peterhp](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=peterhp))
+* Sander Jotun ([sanderjo](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=sanderjo))
+* Synnøve Nordvik Helgesen ([synnovnh](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=synnovnh))
+* Tram Bich Michelle Nguyen ([tbnguyen](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=tbnguyen))
