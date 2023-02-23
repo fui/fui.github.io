@@ -13,47 +13,33 @@ Studentrepresentanter til de fleste utvalg ved Ifi velges på Valgallmøtet
 i begynnelsen av høstsemesteret. Her finner du studentrepresentanter organisert
 etter hvilke utvalg de sitter i.
 
-UiO-brukernavnet står i parentes etter representantens navn. Ønsker du
-å kontakte en studentrepresentant direkte kan du sende epost til
-\<brukernavn\>@ulrik.uio.no.
+For kontaktinformasjon (uio-brukernavn) anbefales det å gå inn på ssh "brukernavn"@login.ifi.uio.no for å deretter kjøre kommandoen "bofh". Når kommandoen er kjørt har du muligheten til å skrive inn kommandoen "person find name" for å så skrive inn navnet til personen du vil kontakte.
+<br>
+Videre får du da en liste med informasjon, slik som brukernavn. Send deretter en mail til "brukernavn"@uio.no
 <br><br>
 
-**Instituttstyret**
-* Hjalmar Andersen [(hjalmara)](mailto:hjalmara@ifi.uio.no) – H21-V22
-* Ingrid Cornelia Drougge Vassbotn [(icvassbo)](mailto:icvassbo@ifi.uio.no) – V21-H21
-* Vara: Vetle Alvenes Utvik [(vetleu)](mailto:vetleu@ulrik.uio.no) – V21-H21
-* Vara: Johanne Thunes [(johanthu)](mailto:johanthu@ulrik.uio.no) – H21-V22
+[**Instituttstyret**](https://www.mn.uio.no/ifi/om/organisasjon/styret/)
 <br><br>
 
-**Undervisningsutvalget**
-* Olav Haaland Moseng [(olavhmos)](mailto:olavhmos@ifi.uio.no) – H21-V22
-* Johanne Thunes [(johanthu)](mailto:johanthu@ulrik.uio.no) – H21-V22
-* Alina Krogstad [(gretheak)](mailto:gretheak@ulrik.uio.no) – V21-H21
-* Vara: Eirik Solheim Ølberg [(eirikolb)](mailto:eirikolb@ifi.uio.no) – H21-V22
-* Vara: Ingeborg Steel [(ingebows)](mailto:ingebows@uio.no) – H21-V22
-* Vara: Sunniva Sol Standnes Blix [(ssblix)](mailto:ssblix@uio.no) – H21
+[**Undervisningsutvalget**](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/undervisningsutvalget/)
 <br><br>
 
 **Programrådene for Informatikk**<br>
-Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/). Per 15. April 2021 er studentrepresentantene som følger:
-* *Design:* Julie Vatnebryn Thoen, Chris Kløv Andersen & Vetle Utvik. 
-* *Prosa:* Sivert Schou Olsen [(siverto)](mailto:siverto@ulrik.uio.no), Tonje Røyeng [(tonjro)](mailto:tonjro@ulrik.uio.no), Petter Sæther Moen & Mattis Bratland.
-* *Digøk:* Eivind Grønlund [(eivigr)](mailto:eivigr@ulrik.uio.no), Cecilie Isdahl [(cecilisd)](mailto:cecilisd@ulrik.uio.no), Anna Elise Dæhlen & Elias Ramsvik 
-* *Robotikk:* Eirik Berg, Burhan Mohammad Sarfraz, Sara Hasse Joannesen, Eirik Solheim Ølberg & Jørgen Petlund.
-* *Språkteknologi:* Kaisa Korsak [(katarkor)](mailto:katarkor@ulrik.uio.no) & Nikolas Martin [(nikolhm)](mailto:nikolhm@ulrik.uio.no)
-* *Entrepenørskap:* Niklas Tyler Husefest [(niklah)](mailto:niklah@ulrik.uio.no)
+Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/index.html). For (forhåpentligvis) oppdatert informasjon se sidene som følger:
+* [*Design*](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/design/) 
+* [*Digøk* ](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/digok/index.html)
+* [*Prosa*](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/prosa/index.html)
+* [*Robotikk*](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/IRIS/)
+* [*Språkteknologi*](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/i%3Aspraktek/)
+* [*Entrepenørskap*](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/entrep/index.html)
 <br><br>
 
-**Tilsettingsutvalget**
-* Magnus Hjort [(magnuahj)](mailto:magnuahj@ulrik.uio.no)  – V21-H21
-* Vara: Johanne Thunes [(johanthu)](mailto:johanthu@student.matnat.uio.no) - V21-H21
+[**Ansettelsesutvalget**](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/tilsettingsutvalget/index.html)
 <br><br>
 
-**Prosjektgruppe for balansert mangfold**
-* Ikke fylt, FUI kan etterfylle – V21-H21
-* Vara: Ikke fylt, FUI kan etterfylle – V21-H21
+[**Lokalt arbeidsmiljøutvalg (LAMU)**](https://www.mn.uio.no/ifi/om/hms/LAMU/index.html)
 <br><br>
 
-**Arbeidsmiljøutvalget**
-* Karl Korslund [(karlkor)](mailto:karlkor@uio.no) – H20-V21
-* Vara: Vetle Utvik [(vetleu)](mailto:vetleu@uio.no) – H20-V21
+**Oversikt over alle utvalg**<br>
+For oversikt over alle råd og utvalg ved IFI se: 
+[https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/index.html](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/index.html)
