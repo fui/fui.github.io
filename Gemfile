@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '>= 3.9.0'
 gem 'html-proofer'
+gem 'mini_portile2', '~> 2.8', '>= 2.8.1'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'
