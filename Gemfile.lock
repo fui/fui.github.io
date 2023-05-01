@@ -129,7 +129,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-redirect-from (>= 0.15.0)
   kramdown (>= 2.3.0)
-  mini_portile2 (~> 2.8, >= 2.8.1)
+  mini_portile2 (~> 2.8)
   rouge
 
 BUNDLED WITH
