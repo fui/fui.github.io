@@ -81,7 +81,7 @@ svarer.
     <tr>
       <td>Økonomiansvarlig</td>
        <td>Peter Hjelle Petersen-Øverleir</td>
-      <td>peterhp<a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=">peterhp</a></td>
+      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=">peterhp</a></td>
     </tr>
   </tbody>
 </table>
