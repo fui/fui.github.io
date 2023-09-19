@@ -80,15 +80,14 @@ svarer.
     </tr>
     <tr>
       <td>Økonomiansvarlig</td>
-       <td></td>
-      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid="></a></td>
+       <td>Peter Hjelle Petersen-Øverleir</td>
+      <td>peterhp<a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=">peterhp</a></td>
     </tr>
   </tbody>
 </table>
 
 Fagutvalgets øvrige medlemmer fra og med Høsten 2023 er:
 
-* Peter Petersen-Øverleir ([peterhp](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=peterhp))
 * Kavin Thas ([kavint](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=kavint))
 * Julie Grihamar ([juliegri](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=juliegri))
 * Tram Bich Michelle Nguyen ([tbnguyen](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=tbnguyen))
