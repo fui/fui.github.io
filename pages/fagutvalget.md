@@ -70,28 +70,33 @@ svarer.
   <tbody>
     <tr>
       <td>Leder</td>
-      <td>Rifat Naim</td>
-      <td><a href="https://www.mn.uio.no/?vrtx=person-view&uid=mrislam">mrislam</a></td>
+      <td>Helene Nordrum Grun</td>
+      <td><a href="https://www.mn.uio.no/?vrtx=person-view&uid=helenng">helenng</a></td>
     </tr>
     <tr>
       <td>Nestleder</td>
-       <td>Sunniva Sol Standnes Blix</td>
-      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ssblix">ssblix</a></td>
+       <td>Miriam Adara Thon Flaarønning</td>
+      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=miriamtf">miriamtf</a></td>
     </tr>
     <tr>
       <td>Økonomiansvarlig</td>
-       <td>Helene Nordrum Grun</td>
-      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=helenng">helenng</a></td>
+       <td></td>
+      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid="></a></td>
     </tr>
   </tbody>
 </table>
 
-Fagutvalgets øvrige medlemmer fra og med våren 2023 er:
+Fagutvalgets øvrige medlemmer fra og med Høsten 2023 er:
 
-* Julie Grihamar ([juliegri](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=juliegri))
-* Kavin Thas ([kavint](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=kavint))
-* Miriam Adara Thon Flaarønning ([miriamtf](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=miriamtf))
 * Peter Petersen-Øverleir ([peterhp](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=peterhp))
-* Sander Jotun ([sanderjo](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=sanderjo))
-* Synnøve Nordvik Helgesen ([synnovnh](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=synnovnh))
+* Kavin Thas ([kavint](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=kavint))
+* Julie Grihamar ([juliegri](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=juliegri))
 * Tram Bich Michelle Nguyen ([tbnguyen](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=tbnguyen))
+* Sunniva Sol Standnes Blix ([ssblix](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ssblix))
+* Matz Sigve Overby ([matzso](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=matzso))
+* Synnøve Nordvik Helgesen ([synnovnh](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=synnovnh))
+* Sofie Larssen Markeset ([sofielma](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=sofielma))
+* Jonas Frømyr Evang ([jonasfev](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=jonasfev))
+* Oliver Ruste Jahren ([oliverrj](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=oliverrj))
+* Arin Skirbekk Løken ([arinsl](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=arinsl))
+
