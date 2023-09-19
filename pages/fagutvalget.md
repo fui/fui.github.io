@@ -48,7 +48,7 @@ Ole-Johan Dahls hus.
 ### Kursevaluering
 Kursevaluering (KE) gjøres på slutten av hvert semester for alle kursene på
 IFI. Det sendes ut invitasjoner til alle studentene påmeldt hvert kurs. En
-oversikt over tilgjengelige skjemaer finnes på `nettskjema.uio.no`
+oversikt over tilgjengelige skjemaer finnes på `nettskjema.no`
 
 Nettskjema som brukes for å samle inn data er laget av
 [USIT](http://usit.uio.no/). Dette systemet garanterer anonymitet for de som
