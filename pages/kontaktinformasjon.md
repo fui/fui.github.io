@@ -9,8 +9,9 @@ modeline: " vim: set spl=nb: "
 
 ---
 
-Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved IFI. 
+Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved IFI.
 <br><br>
+
 <table class="table">
   <thead>
     <tr>

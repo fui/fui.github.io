@@ -18,10 +18,10 @@ En IFI-student defineres som en programstudent ved IFI v/UiO, eller en student s
 **§1 Formål**
 
 1. Fagutvalget ved Institutt for informatikk, heretter referert til som “FUI”, har
-til formål å ivareta og fremme interessene til studentene ved Institutt for
-informatikk ved Universitet i Oslo, heretter referert til som “IFI”. Dette inkluderer, men er ikke begrenset
-til, faglig og sosiale forhold opp mot instituttets ledelse, fakultetet og
-Universitetet i Oslo, herretter referert til som “UiO”.
+   til formål å ivareta og fremme interessene til studentene ved Institutt for
+   informatikk ved Universitet i Oslo, heretter referert til som “IFI”. Dette inkluderer, men er ikke begrenset
+   til, faglig og sosiale forhold opp mot instituttets ledelse, fakultetet og
+   Universitetet i Oslo, herretter referert til som “UiO”.
 
 **§2 Styret**
 
@@ -40,7 +40,7 @@ Universitetet i Oslo, herretter referert til som “UiO”.
 **§3 Generalforsamling**
 
 1. Generalforsamlingen er foreningens høyeste organ. Den er beslutningsdyktig når minst 25 IFI-studenter er til stede.
-2. Styret kaller inn til generalforsamling. Innkallingen skal komme minmum to uker før  ordinær generalforsamling, og minnimum en uke før for ekstraordinær generalforsamling
+2. Styret kaller inn til generalforsamling. Innkallingen skal komme minmum to uker før ordinær generalforsamling, og minnimum en uke før for ekstraordinær generalforsamling
 3. Ekstraordinær generalforsamling avholdes når styret, eller når minst 25 IFI-studenter ved skriftlig krav krever dette.
 4. Ordinær generalforsamling avholdes i begynnelsen av hvert semester. De nyvalgte tiltrer umiddelbart.
 5. Forslag til vedtektsendringer og andre saker som ønskes tatt opp på generalforsamling skal være styret i hende minimum 48 timer før generalforsamlingen.
@@ -50,7 +50,7 @@ Universitetet i Oslo, herretter referert til som “UiO”.
 **§4 Valg**
 
 1. Valgbare til styret er alle programstudenter ved IFI.
-2. Styremedlemmer skal velges på generalforsamling. Unntaket er  Alle verv varer i to semestere.
+2. Styremedlemmer skal velges på generalforsamling. Unntaket er Alle verv varer i to semestere.
 
 **§5 Mistillit**
 
@@ -62,6 +62,6 @@ Universitetet i Oslo, herretter referert til som “UiO”.
 **§6 Oppløsning**
 
 1. Forslag om å oppløse FUI skal vedtas ved ¾ flertall blant de fremmøtte
-stemmeberettigede på to påfølgende ordinære generalforsamlinger.
+   stemmeberettigede på to påfølgende ordinære generalforsamlinger.
 2. Ved oppløsning skal FUIs økonomiske midler og eiendeler overføres til
-Fordelingsutvalget ved Institutt for informatikk.
+   Fordelingsutvalget ved Institutt for informatikk.

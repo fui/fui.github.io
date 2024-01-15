@@ -26,13 +26,14 @@ Videre får du da en liste med informasjon, slik som brukernavn. Send deretter e
 
 **Programrådene for Informatikk**<br>
 Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/index.html). For (forhåpentligvis) oppdatert informasjon se sidene som følger:
-* [*Design*](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/design/) 
-* [*Digøk* ](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/digok/index.html)
-* [*Prosa*](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/prosa/index.html)
-* [*Robotikk*](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/IRIS/)
-* [*Språkteknologi*](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/i%3Aspraktek/)
-* [*Entrepenørskap*](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/entrep/index.html)
-<br><br>
+
+- [_Design_](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/design/)
+- [_Digøk_ ](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/digok/index.html)
+- [_Prosa_](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/prosa/index.html)
+- [_Robotikk_](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/IRIS/)
+- [_Språkteknologi_](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/i%3Aspraktek/)
+- [_Entrepenørskap_](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/entrep/index.html)
+  <br><br>
 
 [**Ansettelsesutvalget**](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/tilsettingsutvalget/index.html)
 <br><br>
@@ -41,5 +42,5 @@ Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https
 <br><br>
 
 **Oversikt over alle utvalg**<br>
-For oversikt over alle råd og utvalg ved IFI se: 
+For oversikt over alle råd og utvalg ved IFI se:
 [https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/index.html](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/index.html)
