@@ -9,7 +9,7 @@ modeline: " vim: set spl=nb: "
 
 ---
 
-Fagutvalget  ved Institutt for informatikk (FUI) er informatikkstudentenes eget
+Fagutvalget ved Institutt for informatikk (FUI) er informatikkstudentenes eget
 organ, og skal fungere som et bindeledd mellom studentene, instituttet og
 universitetet forøvrig. FUI har mellom 10 og 13 medlemmer, og møtes som regel
 en gang i måneden. Medlemmene velges på et valgallmøte for instituttets
@@ -35,17 +35,19 @@ i styrer og utvalg.
 - Hvert semester utarbeider vi instituttets kursevalueringsrapport, og gjennom
   det arbeidet får vi full oversikt over kvaliteten på alle kurs hvor studenter
   har tatt seg tid til å bidra med sin mening.
-<br><br>
+  <br><br>
 
 ## Hovedvirksomhet
 
 ---
 
 ### Bokskap
+
 FUI tilbyr bokskap som studenter kan ta i bruk. Disse finner du i 3. etasje i
 Ole-Johan Dahls hus.
 
 ### Kursevaluering
+
 Kursevaluering (KE) gjøres på slutten av hvert semester for alle kursene på
 IFI. Det sendes ut invitasjoner til alle studentene påmeldt hvert kurs. En
 oversikt over tilgjengelige skjemaer finnes på `nettskjema.no`
@@ -75,8 +77,8 @@ svarer.
     </tr>
     <tr>
       <td>Nestleder</td>
-       <td>Miriam Adara Thon Flaarønning</td>
-      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=miriamtf">miriamtf</a></td>
+       <td>Oliver Ruste Jahren</td>
+      <td><a href="https://personer.uio.no/oliverrj">oliverrj</a></td>
     </tr>
     <tr>
       <td>Økonomiansvarlig</td>
@@ -88,14 +90,13 @@ svarer.
 
 Fagutvalgets øvrige medlemmer fra og med Høsten 2023 er:
 
-* Kavin Thas ([kavint](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=kavint))
-* Julie Grihamar ([juliegri](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=juliegri))
-* Tram Bich Michelle Nguyen ([tbnguyen](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=tbnguyen))
-* Sunniva Sol Standnes Blix ([ssblix](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ssblix))
-* Matz Sigve Overby ([matzso](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=matzso))
-* Synnøve Nordvik Helgesen ([synnovnh](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=synnovnh))
-* Sofie Larssen Markeset ([sofielma](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=sofielma))
-* Jonas Frømyr Evang ([jonasfev](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=jonasfev))
-* Oliver Ruste Jahren ([oliverrj](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=oliverrj))
-* Arin Skirbekk Løken ([arinsl](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=arinsl))
-
+- Kavin Thas ([kavint](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=kavint))
+- Julie Grihamar ([juliegri](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=juliegri))
+- Tram Bich Michelle Nguyen ([tbnguyen](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=tbnguyen))
+- Sunniva Sol Standnes Blix ([ssblix](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ssblix))
+- Synnøve Nordvik Helgesen ([synnovnh](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=synnovnh))
+- Sofie Larssen Markeset ([sofielma](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=sofielma))
+- Jonas Frømyr Evang ([jonasfev](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=jonasfev))
+- Lise Grønland ([lisekgr](https://personer.uio.no/lisekgr))
+- Lina Helene Winther Sørensen ([lhsorens](https://personer.uio.no/lhsorens))
+- May-Line Bergtun ([maylineb](https://personer.uio.no/maylineb))
