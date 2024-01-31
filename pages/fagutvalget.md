@@ -88,7 +88,7 @@ svarer.
   </tbody>
 </table>
 
-Fagutvalgets øvrige medlemmer fra og med Høsten 2023 er:
+Fagutvalgets øvrige medlemmer fra og med Våren 2024 er:
 
 - May-Line Bergtun ([maylineb](https://personer.uio.no/maylineb))
 - Sunniva Sol Standnes Blix ([ssblix](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ssblix))
