@@ -90,13 +90,13 @@ svarer.
 
 Fagutvalgets øvrige medlemmer fra og med Høsten 2023 er:
 
-- Kavin Thas ([kavint](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=kavint))
-- Julie Grihamar ([juliegri](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=juliegri))
-- Tram Bich Michelle Nguyen ([tbnguyen](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=tbnguyen))
+- May-Line Bergtun ([maylineb](https://personer.uio.no/maylineb))
 - Sunniva Sol Standnes Blix ([ssblix](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ssblix))
+- Jonas Frømyr Evang ([jonasfev](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=jonasfev))
+- Julie Grihamar ([juliegri](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=juliegri))
+- Lise Grønland ([lisekgr](https://personer.uio.no/lisekgr))
 - Synnøve Nordvik Helgesen ([synnovnh](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=synnovnh))
 - Sofie Larssen Markeset ([sofielma](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=sofielma))
-- Jonas Frømyr Evang ([jonasfev](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=jonasfev))
-- Lise Grønland ([lisekgr](https://personer.uio.no/lisekgr))
+- Tram Bich Michelle Nguyen ([tbnguyen](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=tbnguyen))
 - Lina Helene Winther Sørensen ([lhsorens](https://personer.uio.no/lhsorens))
-- May-Line Bergtun ([maylineb](https://personer.uio.no/maylineb))
+- Kavin Thas ([kavint](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=kavint))
