@@ -99,4 +99,4 @@ Fagutvalgets øvrige medlemmer fra og med Våren 2024 er:
 - Sofie Larssen Markeset ([sofielma](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=sofielma))
 - Tram Bich Michelle Nguyen ([tbnguyen](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=tbnguyen))
 - Lina Helene Winther Sørensen ([lhsorens](https://personer.uio.no/lhsorens))
-- Kavin Thas ([kavint](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=kavint))
+- Ka Thas ([kavint](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=kavint))
