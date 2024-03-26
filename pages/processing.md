@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Processing workshop
 permalink: /processing/
 modeline: " vim: set spl=nb: "
