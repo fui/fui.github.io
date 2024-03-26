@@ -122,6 +122,30 @@ Det er også mulig å emulere et trykk på play-knappen ved å taste inn `CTRL+R
 Et protip er å ta `CTRL+T`. Dette for kjøre automatisk formattering av programmet du har skrevet.
 Dersom formatteringen ikke funker er det trolig en syntaksfeil i programmet, som vil si at det uansett ikke ville ha fungert å kjøre det. Derfor kan det være gunstig å alltid formattere før man kjører (det går mye raskere å formattere enn å kompilere osv)
 
+## Forslag til ting å progge
+
+Man har det best når man progger noe man selv er gira på progge. Under følger noen eksempler som kan fostre inspirasjon.
+
+### Snø
+
+La snøen dale ned!
+
+Snø kan representeres som hvite bokser av forskjellige størrelser.
+
+#### Påskekyllinger
+
+Hva med å progge opp en klasse for påskekyllinger, og så bytte ut snøfnuggene med disse?
+
+### Matrix-text
+
+Why live in the matrix when you can progge the matrix? La teksten flomme!
+
+### Statisk støy
+
+OGs husker tiden der TVer kunne ha statisk støy. Hvorfor ikke mimre litt ved å progge en simulering av dette?
+
+Se [her](https://www.youtube.com/watch?v=mfycQJrzXCA) for inspirasjon.
+
 ## Further reading
 
 Dersom du syntes Processing var gøy er det masse Nice ressurser på nettet.
