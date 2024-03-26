@@ -11,7 +11,7 @@ modeline: " vim: set spl=nb: "
 
 FUI x Mikro
 
-## Hva er processing | Hensikt
+## Hva er Processing | Hensikt
 
 > Processing is a flexible software sketchbook and a language for learning how to code.
 
@@ -26,7 +26,7 @@ Man trenger Processing sitt utviklingsmiljø (IDE). Dette kan man enten:
 1. Laste ned gratis [på nettsiden til Processing](https://processing.org/download), eller
 1. Nå via ifi sine RHEL-maskiner.
 
-## Strukturen til et Processing-proram
+## Strukturen til et Processing-program
 
 På samme måte som at alle Java-programmer trenger å ha en main-metode, trenger alle Processing-programmer å ha en `setup()` og `draw()`.
 
@@ -66,7 +66,7 @@ void draw() {
 }
 ```
 
-## Prosedyrer for å komme i gang - `hello processing`
+## Prosedyrer for å komme i gang - `hello Processing`
 
 Det finnes meget god dokumentasjon [på de offisielle nettsidene](https://processing.org/reference). Dette er en oversikt over alt Processing har utover standard Java. All standard Java er gyldig\*, samt denne ekstra funksjonaliteten.
 
