@@ -2,8 +2,8 @@ title: Fagutvalget
 subtitle: ved Institutt for Informatikk
 
 description: |
-  Fagutvalget ved Institutt for Infromatikk leverer hver høst kursevaluering,
-  og distribuerer ellers bokskap ved Ole-Johan Dahls hus. Vi kan også kontaktes
+  Fagutvalget ved Institutt for Informatikk leverer hver høst kursevaluering,
+  og administrerer ellers bokskap ved Ole-Johan Dahls hus. Vi kan også kontaktes
   angående kritikkverdige forhold ved instituttet, enten det er faglig eller
   administrativt.
 
@@ -48,5 +48,4 @@ collections:
 paginate: 6
 per_page: 6
 paginate_path: "/referater/side:num/"
-
 # vim: set ft=ansible:
