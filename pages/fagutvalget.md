@@ -72,8 +72,8 @@ svarer.
   <tbody>
     <tr>
       <td>Leder</td>
-      <td>Helene Nordrum Grun</td>
-      <td><a href="https://www.mn.uio.no/?vrtx=person-view&uid=helenng">helenng</a></td>
+      <td>Hanne Alexandersdatter Hugem</td>
+      <td><a href="https://personer.uio.no/hanneahu">hanneahu</a></td>
     </tr>
     <tr>
       <td>Nestleder</td>
@@ -83,7 +83,7 @@ svarer.
     <tr>
       <td>Økonomiansvarlig</td>
        <td>Peter Hjelle Petersen-Øverleir</td>
-      <td><a href="https://www.mn.uio.no/ifi/?vrtx=person-view&uid=peterhp">peterhp</a></td>
+      <td><a href="https://personer.uio.no/peterhp">peterhp</a></td>
     </tr>
   </tbody>
 </table>
@@ -91,12 +91,8 @@ svarer.
 Fagutvalgets øvrige medlemmer fra og med Våren 2024 er:
 
 - May-Line Bergtun ([maylineb](https://personer.uio.no/maylineb))
-- Sunniva Sol Standnes Blix ([ssblix](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=ssblix))
-- Jonas Frømyr Evang ([jonasfev](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=jonasfev))
-- Julie Grihamar ([juliegri](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=juliegri))
-- Lise Grønland ([lisekgr](https://personer.uio.no/lisekgr))
-- Synnøve Nordvik Helgesen ([synnovnh](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=synnovnh))
-- Sofie Larssen Markeset ([sofielma](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=sofielma))
-- Tram Bich Michelle Nguyen ([tbnguyen](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=tbnguyen))
-- Lina Helene Winther Sørensen ([lhsorens](https://personer.uio.no/lhsorens))
-- Ka Thas ([kavint](https://www.mn.uio.no/ifi/?vrtx=person-view&uid=kavint))
+- Sunniva Sol Standnes Blix ([ssblix](https://personer.uio.no/ssblix))
+- Jonas Frømyr Evang ([jonasfev](https://personer.uio.no/jonasfev))
+- Julie Grihamar ([juliegri](https://personer.uio.no/juliegri))
+- Tram Bich Michelle Nguyen ([tbnguyen](https://personer.uio.no/tbnguyen))
+- Helene Nordrum Grun ([helenng](https://personer.uio.no/helenng))
