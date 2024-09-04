@@ -15,7 +15,7 @@ Endringer vedtatt på generalforsamling 04.09.2024
 
 En IFI-student defineres som en programstudent ved IFI v/UiO, eller en student som tar et eller flere fag med emnekode som starter med IN- v/UiO.
 
-#### §1 Formål
+#### **§1 Formål**
 
 1. Fagutvalget ved Institutt for informatikk, heretter referert til som “FUI”, har
 til formål å ivareta og fremme interessene til studentene ved Institutt for
