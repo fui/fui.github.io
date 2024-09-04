@@ -24,7 +24,7 @@ Videre får du da en liste med informasjon, slik som brukernavn. Send deretter e
 [**Undervisningsutvalget**](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/undervisningsutvalget/)
 <br><br>
 
-**Programrådene for Informatikk**<br>
+[**Programrådene for Informatikk**](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/)<br>
 Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/index.html). For (forhåpentligvis) oppdatert informasjon se sidene som følger:
 * [*Design*](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/design/) 
 * [*Digøk* ](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/programradet/digok/index.html)
@@ -38,6 +38,9 @@ Hver linje har sitt råd. Mer info om de forskjellige rådene ligger [her](https
 <br><br>
 
 [**Lokalt arbeidsmiljøutvalg (LAMU)**](https://www.mn.uio.no/ifi/om/hms/LAMU/index.html)
+<br><br>
+
+[**Klimautvalget**](https://www.mn.uio.no/ifi/om/organisasjon/andreutvalg/klimaradet/)
 <br><br>
 
 **Oversikt over alle utvalg**<br>
