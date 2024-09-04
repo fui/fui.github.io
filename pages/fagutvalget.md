@@ -94,5 +94,5 @@ Fagutvalgets øvrige medlemmer fra og med Høsten 2024 er:
 - Sunniva Sol Standnes Blix ([ssblix](https://personer.uio.no/ssblix))
 - Jonas Frømyr Evang ([jonasfev](https://personer.uio.no/jonasfev))
 - Julie Grihamar ([juliegri](https://personer.uio.no/juliegri))
-- Tram Bich Michelle Nguyen ([tbnguyen](https://personer.uio.no/tbnguyen))
 - Helene Nordrum Grun ([helenng](https://personer.uio.no/helenng))
+- Tram Bich Michelle Nguyen ([tbnguyen](https://personer.uio.no/tbnguyen))
