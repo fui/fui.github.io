@@ -90,7 +90,6 @@ svarer.
 
 Fagutvalgets øvrige medlemmer fra og med Høsten 2024 er:
 
-- May-Line Bergtun ([maylineb](https://personer.uio.no/maylineb))
 - Sunniva Sol Standnes Blix ([ssblix](https://personer.uio.no/ssblix))
 - Jonas Frømyr Evang ([jonasfev](https://personer.uio.no/jonasfev))
 - Julie Grihamar ([juliegri](https://personer.uio.no/juliegri))
