@@ -83,13 +83,14 @@ svarer.
     <tr>
       <td>Økonomiansvarlig</td>
        <td><i><b>Ubesatt</b></i></td> 
+       <td>-</td>
        <!-- <td>Peter Hjelle Petersen-Øverleir</td> -->
       <!-- <td><a href="https://personer.uio.no/peterhp">peterhp</a></td> -->
     </tr>
   </tbody>
 </table>
 
-Fagutvalgets øvrige medlemmer fra og med Høsten 2024 er:
+Fagutvalgets øvrige medlemmer fra og med Våren 2025 er:
 
 - Sunniva Sol Standnes Blix ([ssblix](https://personer.uio.no/ssblix))
 - Jonas Frømyr Evang ([jonasfev](https://personer.uio.no/jonasfev))
