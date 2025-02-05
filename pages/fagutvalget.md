@@ -82,8 +82,9 @@ svarer.
     </tr>
     <tr>
       <td>Økonomiansvarlig</td>
-       <td>Peter Hjelle Petersen-Øverleir</td>
-      <td><a href="https://personer.uio.no/peterhp">peterhp</a></td>
+       <td><i><b>Ubesatt</b></i></td> 
+       <!-- <td>Peter Hjelle Petersen-Øverleir</td> -->
+      <!-- <td><a href="https://personer.uio.no/peterhp">peterhp</a></td> -->
     </tr>
   </tbody>
 </table>
@@ -95,3 +96,7 @@ Fagutvalgets øvrige medlemmer fra og med Høsten 2024 er:
 - Julie Grihamar ([juliegri](https://personer.uio.no/juliegri))
 - Helene Nordrum Grun ([helenng](https://personer.uio.no/helenng))
 - Tram Bich Michelle Nguyen ([tbnguyen](https://personer.uio.no/tbnguyen))
+- Tina Olguin ([tinaolg](https://personer.uio.no/tinaolg))
+- Peter Hjelle Petersen-Øverleir ([peterhp](https://personer.uio.no/peterhp))
+- Vårin Sørlie ([vaarinso](https://personer.uio.no/vaarinso))
+- Ka Thas ([kavint](https://personer.uio.no/kavint))
