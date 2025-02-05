@@ -96,6 +96,7 @@ Fagutvalgets øvrige medlemmer fra og med Våren 2025 er:
 - Jonas Frømyr Evang ([jonasfev](https://personer.uio.no/jonasfev))
 - Julie Grihamar ([juliegri](https://personer.uio.no/juliegri))
 - Helene Nordrum Grun ([helenng](https://personer.uio.no/helenng))
+- Silje Helgesen ([siljhelg](https://personer.uio.no/siljhelg))
 - Tram Bich Michelle Nguyen ([tbnguyen](https://personer.uio.no/tbnguyen))
 - Tina Olguin ([tinaolg](https://personer.uio.no/tinaolg))
 - Peter Hjelle Petersen-Øverleir ([peterhp](https://personer.uio.no/peterhp))
