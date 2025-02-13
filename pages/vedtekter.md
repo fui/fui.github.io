@@ -13,7 +13,7 @@ Endringer vedtatt på generalforsamling 04.09.2024
 
 #### **Definisjoner**
 
-En IFI-student defineres som en programstudent ved IFI v/UiO, eller en student som tar et eller flere fag med emnekode som starter med IN- v/UiO.
+En IFI-student defineres som en programstudent ved IFI v/UiO, eller en student som tar ett eller flere fag med emnekode som starter med IN- v/UiO.
 
 #### **§1 Formål**
 
