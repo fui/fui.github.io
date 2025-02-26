@@ -20,7 +20,7 @@ finner du den publiserte kursevalueringen. Logg inn med uio-brukernavn og passor
 Kursevaluering gjøres på slutten av hvert semester for alle kursene på Ifi. Det
 sendes ut invitasjoner til alle studentene påmeldt hvert kurs. En oversikt over
 tilgjengelige skjemaer finnes på
-[nettskjema.uio.no](https://nettskjema.uio.no/).
+[nettskjema.no](https://nettskjema.no/).
 
 Nettskjema som brukes for å samle inn data er laget av [USIT](https://www.usit.uio.no/). Dette systemet garanterer anonymitet for de som svarer.
 <br><br>
