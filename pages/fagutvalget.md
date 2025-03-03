@@ -77,15 +77,13 @@ svarer.
     </tr>
     <tr>
       <td>Nestleder</td>
-       <td>Oliver Ruste Jahren</td>
+      <td>Oliver Ruste Jahren</td>
       <td><a href="https://personer.uio.no/oliverrj">oliverrj</a></td>
     </tr>
     <tr>
       <td>Økonomiansvarlig</td>
-       <td><i><b>Ubesatt</b></i></td> 
-       <td>-</td>
-       <!-- <td>Peter Hjelle Petersen-Øverleir</td> -->
-      <!-- <td><a href="https://personer.uio.no/peterhp">peterhp</a></td> -->
+      <td>Silje Helgesen</td>
+      <td><a href="https://personer.uio.no/siljhelg">siljhelg</a></td>
     </tr>
   </tbody>
 </table>
@@ -96,7 +94,6 @@ Fagutvalgets øvrige medlemmer fra og med Våren 2025 er:
 - Jonas Frømyr Evang ([jonasfev](https://personer.uio.no/jonasfev))
 - Julie Grihamar ([juliegri](https://personer.uio.no/juliegri))
 - Helene Nordrum Grun ([helenng](https://personer.uio.no/helenng))
-- Silje Helgesen ([siljhelg](https://personer.uio.no/siljhelg))
 - Tram Bich Michelle Nguyen ([tbnguyen](https://personer.uio.no/tbnguyen))
 - Tina Olguin ([tinaolg](https://personer.uio.no/tinaolg))
 - Peter Hjelle Petersen-Øverleir ([peterhp](https://personer.uio.no/peterhp))
