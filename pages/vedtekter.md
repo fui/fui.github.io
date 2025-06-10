@@ -41,7 +41,7 @@ Universitetet i Oslo, herretter referert til som “UiO”.
 #### **§3 Etikk og varsling**
 
 1. Foreningen skal så langt det er mulig vurdere miljømessige og etiske hensyn i planleggingen av aktiviteter.
-2. Skjer kritikkverdigeforhold i foreningen eller under foreningens arrangementer så kan dette varsles i henhold til varslingsrutiner.
+2. Skjer kritikkverdige forhold i foreningen eller under foreningens arrangementer så kan dette varsles i henhold til varslingsrutiner.
 3. Foreningen skal ha en oppdatert varslingsplakat, varslingsrutiner og etiske retningslinjer som alle medlemmer skal være kjent med.
 4. I tillegg må dere ha en paragraf om sanksjoner slik at det kort er beskrevet hva som kan bli konsekvensene ved brudd på vedtekter eller retningslinjer.  
 
