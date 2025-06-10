@@ -7,7 +7,7 @@ modeline: " vim: set spl=nb: "
 
 # Vedtekter
 
-Endringer vedtatt på generalforsamling 04.09.2024
+Endringer vedtatt på felles generalforsamling for foreninger ved IFI 14.03.2025
 
 ---
 
@@ -38,7 +38,21 @@ Universitetet i Oslo, herretter referert til som “UiO”.
 11. Dersom et styremedlem bryter vedtektene eller på noen måte er uskikket til å sitte i styret kan det miste sin status som styremedlem ved vedtak på generalforsamling.
 12. Det stilles krav til at enhver som sitter i styret er programstudent ved IFI
 
-#### **§3 Generalforsamling**
+#### **§3 Etikk og varsling**
+
+1. Foreningen skal så langt det er mulig vurdere miljømessige og etiske hensyn i planleggingen av aktiviteter.
+2. Skjer kritikkverdigeforhold i foreningen eller under foreningens arrangementer så kan dette varsles i henhold til varslingsrutiner.
+3. Foreningen skal ha en oppdatert varslingsplakat, varslingsrutiner og etiske retningslinjer som alle medlemmer skal være kjent med.
+4. I tillegg må dere ha en paragraf om sanksjoner slik at det kort er beskrevet hva som kan bli konsekvensene ved brudd på vedtekter eller retningslinjer.  
+
+#### **§4 Sanksjoner**
+
+1. Ved brudd på norsk lov, foreningens vedtekter eller retningslinjer kan styret ilegge sanksjoner mot det aktuelle medlemmet.
+2. Sanksjoner kan inkludere, men er ikke begrenset til, advarsler, midlertidig suspensjon av medlemsrettigheter, eller i alvorlige tilfeller, eksklusjon fra foreningen. 
+3. Alle sanksjoner skal besluttes av styret med et kvalifisert flertall på minst to tredjedeler.
+4. Vedtak av sanksjoner kan ankes til styret for ny behandling av saken.
+
+#### **§5 Generalforsamling**
 
 1. Generalforsamlingen er foreningens høyeste organ. Den er beslutningsdyktig når minst 25 IFI-studenter er til stede.
 2. Styret kaller inn til generalforsamling. Innkallingen skal komme minmum to uker før  ordinær generalforsamling, og minnimum en uke før for ekstraordinær generalforsamling
@@ -48,20 +62,20 @@ Universitetet i Oslo, herretter referert til som “UiO”.
 6. Forslag til vedtektsendring skal behandles på generalforsamling, og må få 2⁄3 flertall blant de fremmøtte for å bli vedtatt
 7. Enhver IFI-student kan på generalforsamlingen foreslå å ta opp saker utenom den oppsatte dagsorden. Generalforsamlingen kan ikke fatte vedtak i slike saker.
 
-#### **§4 Valg**
+#### **§6 Valg**
 
 1. Valgbare til styret er alle programstudenter ved IFI.
 2. Styremedlemmer skal velges på generalforsamling, unntaket er ved etterfylling.
 3. Alle verv varer i to semestere, untatt ved etterfylling hvor man sitter til neste ordinære generalforsamling
 
-#### **§5 Mistillit**
+#### **§7 Mistillit**
 
 1. IFI-studenter kan fremme mistillitsforslag mot styremedlemmer og andre tillitsvalgte som er valgt i henhold til §4 eller som er etterfylt jamfør §2.8
 2. Slike forslag skal behandles på generalforsamling, og må være fremmet minst 48 timer i forveien.
 3. Mistillitsforslag vedtas med 2⁄3 flertall
 4. Dersom et mistillitsforslag blir vedtatt kan generalforsamlingen vedta å holde nyvalg for vervet med periode frem til neste ordinære generalforsamling.
 
-#### **§6 Oppløsning**
+#### **§8 Oppløsning**
 
 1. Forslag om å oppløse FUI skal vedtas ved ¾ flertall blant de fremmøtte
 stemmeberettigede på to påfølgende ordinære generalforsamlinger.
