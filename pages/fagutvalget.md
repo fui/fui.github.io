@@ -9,18 +9,18 @@ modeline: " vim: set spl=nb: "
 
 ---
 
-Fagutvalget ved Institutt for informatikk (FUI) er informatikkstudentenes eget
+{{ site.full_name }} (FUI) er informatikkstudentenes eget
 organ, og skal fungere som et bindeledd mellom studentene, instituttet og
 universitetet forøvrig. FUI har mellom 10 og 13 medlemmer, og møtes som regel
 en gang i måneden. Medlemmene velges på et valgallmøte for instituttets
 studenter i begynnelsen av hvert semester.
 
-Fagutvalget har noen faste oppgaver og arbeider ellers med saker studentene ved
+{{ site.title }} har noen faste oppgaver og arbeider ellers med saker studentene ved
 instituttet ønsker å ta opp. Blant de faste oppgavene er plassfordeling på
 lesesalene, administrasjon av bokskap, kursevaluering på nett og representasjon
 i styrer og utvalg.
 
-- Fagutvalget ved Institutt for informatikk jobber til enhver tid med
+- {{ site.full_name }} jobber til enhver tid med
   å forbedre studiehverdagen til studentene ved instituttet.
 - Kontakt oss hvis du har problemer i forbindelse med fag eller studier slik
   som urettferdige frister for obligatoriske oppgaver, dårlige kurs, eller kun
@@ -88,9 +88,8 @@ svarer.
   </tbody>
 </table>
 
-Fagutvalgets øvrige medlemmer fra og med Våren 2025 er:
+{{ site.title }}s øvrige medlemmer fra og med Våren 2025 er:
 
-- Sunniva Sol Standnes Blix ([ssblix](https://personer.uio.no/ssblix))
 - Jonas Frømyr Evang ([jonasfev](https://personer.uio.no/jonasfev))
 - Julie Grihamar ([juliegri](https://personer.uio.no/juliegri))
 - Helene Nordrum Grun ([helenng](https://personer.uio.no/helenng))
