@@ -50,4 +50,4 @@ Dersom du mener det har blitt gjort feil i prosessen, eller sanksjonen ikke stå
 
 ## Vil du vite mer?
 
-Les dokumentet for håndtering av varsler for hvordan varslingssaker håndteres steg for steg
+Les dokumentet for [håndtering av varsler](/varsler/handtering-av-varslingssaker) for hvordan varslingssaker håndteres steg for steg

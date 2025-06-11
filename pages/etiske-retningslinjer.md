@@ -29,7 +29,7 @@ Alle som blir valgt skal signere på retningslinjene når de tiltrer sine verv, 
 
 5. Habilitet i varslingssaker
 
-    Ved behandling av varslingssaker skal et varslingsutvalg bestå av personer som ikke er personlig involvert i saken. Før man begynner behandlingen av en varslingssak skal varslingsutvalget i samarbeid vurdere utvalgets habilitet. Dersom noen i et varslingsutvalg vurderes inhabil skal personen straks erstattes med en habil person. (Se eget dokument med rutiner for behandling varslingssaker.)
+    Ved behandling av varslingssaker skal et varslingsutvalg bestå av personer som ikke er personlig involvert i saken. Før man begynner behandlingen av en varslingssak skal varslingsutvalget i samarbeid vurdere utvalgets habilitet. Dersom noen i et varslingsutvalg vurderes inhabil skal personen straks erstattes med en habil person. (Se eget dokument med [rutiner for behandling varslingssaker](/varsler/handtering-av-varslingssaker).)
 
 6. Representasjon
 
