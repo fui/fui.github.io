@@ -9,8 +9,9 @@ modeline: " vim: set spl=nb: "
 
 ---
 
-Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved IFI. 
+Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ved IFI.
 <br><br>
+
 <table class="table">
   <thead>
     <tr>
@@ -41,5 +42,7 @@ Ta gjerne kontakt med oss dersom det er noe du er misfornøyd med som student ve
 
 <!-- Hvis du har noen andre generelle tilbakemeldinger, klager, ris eller ros, kan du skrive det anonymt på [denne lenken](https://response.questback.com/questback/fuiklager/).
 <br> -->
+
+Se [egen side for varsling i FUI](/varling) dersom du ønsker å varsle på fagutvalgets medlemmer.
 
 Ved alvorlige forhold kan du også benytte deg av [UiOs Si fra-tjeneste](https://www.uio.no/studier/kontakt/si-fra/).
