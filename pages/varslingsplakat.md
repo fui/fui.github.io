@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vedtekter
-permalink: /varslingsplakat/
+permalink: /varsling/plakat
 modeline: " vim: set spl=nb: "
 ---
 
