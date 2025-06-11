@@ -11,11 +11,13 @@ GEM
       io-event (~> 1.1)
       timers (~> 4.1)
     base64 (0.1.1)
+    bigdecimal (3.2.2)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
     console (1.23.2)
       fiber-annotation
       fiber-local
+    csv (3.3.5)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -128,6 +130,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  base64
+  bigdecimal
+  csv
   html-proofer
   jekyll (>= 3.9.0)
   jekyll-gist
