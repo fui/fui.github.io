@@ -17,7 +17,7 @@ En IFI-student defineres som en programstudent ved IFI v/UiO, eller en student s
 
 #### **§1 Formål**
 
-1. Fagutvalget ved Institutt for informatikk, heretter referert til som “FUI”, har
+1. {{ site.full_name }}, heretter referert til som “FUI”, har
 til formål å ivareta og fremme interessene til studentene ved Institutt for
 informatikk ved Universitet i Oslo, heretter referert til som “IFI”. Dette inkluderer, men er ikke begrenset
 til, faglig og sosiale forhold opp mot instituttets ledelse, fakultetet og

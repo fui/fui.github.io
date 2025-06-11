@@ -33,5 +33,10 @@
     "text": "Kontakt oss",
     "url": "/kontakt",
     "icon": "fa-feed"
+  }, 
+  {
+    "text": "Varsling i FUI",
+    "url": "/varsling",
+    "icon": "fa-comments"
   }
 ]
