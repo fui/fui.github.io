@@ -88,15 +88,10 @@ svarer.
   </tbody>
 </table>
 
-{{ site.title }}s øvrige medlemmer fra og med høsten 2025 er:
+{{ site.title }}s øvrige medlemmer fra og med {{ site.data.board_composition.semester }} er:
 
-- Sapnil Aditya Ayman ([sapnilaa](https://personer.uio.no/sapnilaa))
-- Jonas Frømyr Evang ([jonasfev](https://personer.uio.no/jonasfev))
-- Julie Grihamar ([juliegri](https://personer.uio.no/juliegri))
-- Helene Nordrum Grun ([helenng](https://personer.uio.no/helenng))
-- Liza Nagmadin Karim ([lizana](https://personer.uio.no/lizana))
-- Tina Olguin ([tinaolg](https://personer.uio.no/tinaolg))
-- Peter Hjelle Petersen-Øverleir ([peterhp](https://personer.uio.no/peterhp))
-- Vårin Sørlie ([vaarinso](https://personer.uio.no/vaarinso))
-- Ka Thas ([kavint](https://personer.uio.no/kavint))
-- Nha Benjamin Dang Tong ([nbtong](https://personer.uio.no/nbtong))
+<ul>
+{% for member in site.data.board_composition.members %}
+  <li>{{ member.name }} (<a href="https://personer.uio.no/{{ member.uioid }}">{{ member.uioid }}</a>)</li>
+{% endfor %}
+</ul>
