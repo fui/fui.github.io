@@ -72,8 +72,8 @@ svarer.
   <tbody>
     <tr>
       <td>Leder</td>
-      <td>Hanne Alexandersdatter Hugem</td>
-      <td><a href="https://personer.uio.no/hanneahu">hanneahu</a></td>
+      <td>Bashir Ahmad Atal</td>
+      <td><a href="https://personer.uio.no/bashiraa">bashiraa</a></td>
     </tr>
     <tr>
       <td>Nestleder</td>
@@ -88,13 +88,10 @@ svarer.
   </tbody>
 </table>
 
-{{ site.title }}s øvrige medlemmer fra og med Våren 2025 er:
+{{ site.title }}s øvrige medlemmer fra og med {{ site.data.board_composition.semester }} er:
 
-- Jonas Frømyr Evang ([jonasfev](https://personer.uio.no/jonasfev))
-- Julie Grihamar ([juliegri](https://personer.uio.no/juliegri))
-- Helene Nordrum Grun ([helenng](https://personer.uio.no/helenng))
-- Tram Bich Michelle Nguyen ([tbnguyen](https://personer.uio.no/tbnguyen))
-- Tina Olguin ([tinaolg](https://personer.uio.no/tinaolg))
-- Peter Hjelle Petersen-Øverleir ([peterhp](https://personer.uio.no/peterhp))
-- Vårin Sørlie ([vaarinso](https://personer.uio.no/vaarinso))
-- Ka Thas ([kavint](https://personer.uio.no/kavint))
+<ul>
+{% for member in site.data.board_composition.members %}
+  <li>{{ member.name }} (<a href="https://personer.uio.no/{{ member.uioid }}">{{ member.uioid }}</a>)</li>
+{% endfor %}
+</ul>
