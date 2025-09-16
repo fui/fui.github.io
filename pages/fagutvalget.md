@@ -3,6 +3,30 @@ layout: page
 title: Om FUI
 permalink: /fagutvalget/
 modeline: " vim: set spl=nb: "
+
+semester: Høst 2025
+members:
+  - name: Sapnil Aditya Ayman
+    uioid: sapnilaa
+  - name: Jonas Frømyr Evang
+    uioid: jonasfev
+  - name: Julie Grihamar
+    uioid: juliegri
+  - name: Helene Nordrum Grun
+    uioid: helenng
+  - name: Liza Nagmadin Karim
+    uioid: lizana
+  - name: Tina Olguin
+    uioid: tinaolg
+  - name: Peter Hjelle Petersen-Øverleir
+    uioid: peterhp
+  - name: Vårin Sørlie
+    uioid: vaarinso
+  - name: Ka Thas
+    uioid: kavint
+  - name: Nha Benjamin Dang Tong
+    uioid: nbtong
+
 ---
 
 # Om FUI
@@ -88,15 +112,13 @@ svarer.
   </tbody>
 </table>
 
-{{ site.title }}s øvrige medlemmer fra og med høsten 2025 er:
+{{ site.title }}s øvrige medlemmer fra og med {{ page.semester }} er:
 
-- Sapnil Aditya Ayman ([sapnilaa](https://personer.uio.no/sapnilaa))
-- Jonas Frømyr Evang ([jonasfev](https://personer.uio.no/jonasfev))
-- Julie Grihamar ([juliegri](https://personer.uio.no/juliegri))
-- Helene Nordrum Grun ([helenng](https://personer.uio.no/helenng))
-- Liza Nagmadin Karim ([lizana](https://personer.uio.no/lizana))
-- Tina Olguin ([tinaolg](https://personer.uio.no/tinaolg))
-- Peter Hjelle Petersen-Øverleir ([peterhp](https://personer.uio.no/peterhp))
-- Vårin Sørlie ([vaarinso](https://personer.uio.no/vaarinso))
-- Ka Thas ([kavint](https://personer.uio.no/kavint))
-- Nha Benjamin Dang Tong ([nbtong](https://personer.uio.no/nbtong))
+<ul>
+
+{% assign sorted_members = page.members | sort: "name" %}
+
+{% for member in sorted_members %}
+  <li>{{ member.name }} (<a href="https://personer.uio.no/{{ member.uioid }}">{{ member.uioid }}</a>)</li>
+{% endfor %}
+</ul>
