@@ -67,8 +67,7 @@ i styrer og utvalg.
 
 ### Bokskap
 
-FUI tilbyr bokskap som studenter kan ta i bruk. Disse finner du i 3. etasje i
-Ole-Johan Dahls hus.
+FUI tilbyr bokskap som studenter kan ta i bruk. Skapene kan du finne fra 3. etasje til 9. etasje i Ole-Johan Dahls hus.
 
 ### Kursevaluering
 
