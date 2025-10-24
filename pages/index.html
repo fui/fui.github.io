@@ -5,30 +5,46 @@ permalink: /
 ---
 
 <div class="well" id="information-box">
-    <div class="list-group">
-        {% for post in site.data.front_page_links %}
-        <div class="list-group-item">
-            <div class="row-action-primary">
-                <i class="{{ post.icon_class }}"></i>
-            </div>
-            <div class="row-content">
-                <h4 class="list-group-item-heading"><a href="{{ post.href }}">{{ post.title }}</a></h4>
-                <p class="list-group-item-text">{{ post.desc }}</p>
-            </div>
-        </div>
-        <div class="list-group-separator"></div>
-        {% endfor %}
-        {% for post in site.posts limit:1 %}
-        <div class="list-group-item">
-            <div class="row-action-primary">
-                <i class="fas fa-paperclip"></i>
-            </div>
-            <div class="row-content">
-                <h4 class="list-group-item-heading"><a href="{{ post.url
-                        }}">Siste godkjente møtereferat</a></h4>
-                <p class="list-group-item-text">Fagutvalget holder ukentlige møter og publiserer referat fra disse etter godkjenning. Dette er en lenke til det siste godkjente referatet.</p>
-            </div>
-        </div>
-        {% endfor %}
+  <div class="list-group">
+    {% for post in site.data.front_page_links %}
+    <div class="list-group-item">
+      <div class="row-action-primary">
+        <i class="{{ post.icon_class }}"></i>
+      </div>
+      <div class="row-content">
+        <h4 class="list-group-item-heading">
+          <a href="{{ post.href }}">{{ post.title }}</a>
+        </h4>
+        <p class="list-group-item-text">{{ post.desc }}</p>
+      </div>
     </div>
-</div><!-- end #home -->
+    <div class="list-group-separator"></div>
+    {% endfor %} {% for post in site.posts limit:1 %}
+    <div class="list-group-item">
+      <div class="row-action-primary">
+        <i class="fas fa-paperclip"></i>
+      </div>
+      <div class="row-content">
+        <h4 class="list-group-item-heading">
+          <a
+            href="{{ post.url
+                        }}"
+            >Siste godkjente møtereferat</a
+          >
+        </h4>
+        <p class="list-group-item-text">
+          Fagutvalget holder ukentlige møter og publiserer referat fra disse
+          etter godkjenning. Dette er en lenke til det siste godkjente
+          referatet.
+        </p>
+      </div>
+    </div>
+    {% endfor %} {% for event in site.data.events %}
+    <div class="list-group-item">
+      <h4>{{ event.title }}</h4>
+      <p>{{ event.date }} – {{ event.description }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+<!-- end #home -->

@@ -2,3 +2,5 @@
 _site
 .jekyll-metadata
 .bundle
+# Her lagrer vi data fra Peoply, det vil vi ikke ha i Git
+_data/events.json

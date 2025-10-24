@@ -1,0 +1,45 @@
+name: Build and Deploy Jekyll site
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      # Set up Node.js (for fetch script)
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      # Install node-fetch if needed
+      - run: npm install node-fetch@2
+
+      # Fetch events from Peoply API
+      - name: Fetch Events from Peoply API
+        run: node .github/fetch_events.js
+
+      # Continue with your Jekyll build as usual
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: "3.4.3"
+        env:
+          global:
+            - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+      - name: Install Dependencies
+        run: bundle install
+
+      - name: Build Jekyll site
+        run: ./script/cibuild.sh
+
+      # Deploy step (e.g., to GitHub Pages, Netlify, etc.) goes here
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
