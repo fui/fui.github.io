@@ -39,10 +39,36 @@ permalink: /
         </p>
       </div>
     </div>
-    {% endfor %} {% for event in site.data.events %}
-    <div class="list-group-item">
-      <h4>{{ event.title }}</h4>
-      <p>{{ event.date }} – {{ event.description }}</p>
+    {% endfor %}
+    <br />
+    <h2>Hva skjer?</h2>
+    <p>
+      Her er en oversikt over våre nyeste arrangementer, hentet fra
+      <a href="https://peoply.app/orgs/fui">Peoply</a>.
+    </p>
+    {% for event in site.data.events %}
+    <div
+      class="list-group-item event-item d-flex align-items-start"
+      style="
+        background: #f8f9fa;
+        border-left: 4px solid #d32f2f;
+        margin-bottom: 10px;
+      "
+    >
+      <div>
+        <h5 class="mb-1" style="font-weight: 600">
+          <a href="https://peoply.app/events/{{ event.urlId }}">
+            {{ event.title }}
+          </a>
+        </h5>
+        <div class="text-muted mb-1" style="font-size: 12pt">
+          {% assign d = event.startDate | date: "%d.%m.%Y kl. %H:%M" %}
+          <i class="far fa-clock"></i> {{ d }}
+        </div>
+        <p class="mb-0" style="font-size: 12pt">
+          {{ event.description | truncate: 300 }}
+        </p>
+      </div>
     </div>
     {% endfor %}
   </div>
