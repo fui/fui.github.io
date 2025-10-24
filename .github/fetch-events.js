@@ -14,7 +14,7 @@ fetch(url)
   .then((res) => res.json())
   .then((data) => {
     console.log("Fetched events:", data);
-    fs.writeFileSync("../_data/events.json", JSON.stringify(data, 2));
+    fs.writeFileSync("_data/events.json", JSON.stringify(data, 2));
     console.log("Events written to _data/events.json");
   })
   .catch((err) => {
