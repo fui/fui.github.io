@@ -2,7 +2,6 @@ const fs = require("fs");
 
 const peoplyUrl = "https://api.peoply.app/events";
 const params = new URLSearchParams({
-  beforeDate: new Date().toISOString(),
   organizationId: "5f316c2d-e6ec-4f38-a2e5-cd66ab785177",
   orderDirection: "desc",
   take: 5,
