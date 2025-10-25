@@ -46,14 +46,17 @@ permalink: /
       Her er en oversikt over våre nyeste arrangementer, hentet fra
       <a href="https://peoply.app/orgs/fui">Peoply</a>.
     </p>
-    {% for event in site.data.events %}
+    {% for event in site.data.events %} {% assign event_time = event.startDate |
+    date: "%s" %} {% assign now_time = "now" | date: "%s" %} {% if event_time <
+    now_time %} {% assign border_color = "#9e9e9e" %} {% else %} {% assign
+    border_color = "#d32f2f" %} {% endif %}
     <div
       class="list-group-item event-item d-flex align-items-start"
       style="
-        background: #f8f9fa;
-        border-left: 4px solid #d32f2f;
-        margin-bottom: 10px;
-      "
+          background: #f8f9fa;
+          border-left: 4px solid {{ border_color }};
+          margin-bottom: 10px;
+        "
     >
       <div>
         <h5 class="mb-1" style="font-weight: 600">
