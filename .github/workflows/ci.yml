@@ -28,7 +28,7 @@ jobs:
           node-version: "18"
 
       - name: Fetch Events from Peoply API
-        run: node .github/fetch_events.js
+        run: node .github/fetch-events.js
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
