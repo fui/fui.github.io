@@ -8,7 +8,7 @@ on:
 
 env:
   daylight_start: "2025-03-30T02:00:00"
-  daylight_end: "2025-0-26T03:00:00"
+  daylight_end: "2025-10-26T03:00:00"
   timezone: "Europe/Oslo"
 
 permissions:
