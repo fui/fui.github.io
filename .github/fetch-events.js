@@ -14,6 +14,15 @@ fetch(url)
   .then((res) => res.json())
   .then((data) => {
     console.log("Fetched events:", data);
+
+    // Adjust event time to follow timezone in Norway:
+    data.forEach(event => {
+      const date = new Date(event.startDate);
+      event.startDate = date.toLocaleString("nb-NO", {
+        timeZone: "Europe/Oslo"
+      });
+    });
+
     fs.writeFileSync("_data/events.json", JSON.stringify(data, 2));
     console.log("Events written to _data/events.json");
   })
