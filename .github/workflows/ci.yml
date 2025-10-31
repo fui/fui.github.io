@@ -6,6 +6,11 @@ on:
   pull_request:
   workflow_dispatch:
 
+env:
+  daylight_start: "2025-03-30T02:00:00"
+  daylight_end: "2025-0-26T03:00:00"
+  timezone: "Europe/Oslo"
+
 permissions:
   contents: read
   pages: write
@@ -29,6 +34,9 @@ jobs:
 
       - name: Fetch Events from Peoply API
         run: node .github/fetch-events.js
+
+      - name: Adjust Event Times For DST
+        run: python script/adjust_event_time.py "$daylight_start" "$daylight_end" "$timezone"
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
