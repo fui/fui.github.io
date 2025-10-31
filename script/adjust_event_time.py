@@ -10,6 +10,7 @@ timezone = ZoneInfo(sys.argv[3])
 with open('_data/events.json', 'r') as event_file:
     events = json.load(event_file)
 
+# Update the event time for each event to follow timezone in Oslo
 for event in events:
     event_time = event['startDate'].replace('Z', '+00:00')
     utc_time = datetime.fromisoformat(event_time)
