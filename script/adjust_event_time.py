@@ -3,9 +3,7 @@ import json
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-daylight_start = datetime.fromisoformat(sys.argv[1])
-daylight_end = datetime.fromisoformat(sys.argv[2])
-timezone = ZoneInfo(sys.argv[3])
+timezone = ZoneInfo("Europe/Oslo")
 
 with open('_data/events.json', 'r') as event_file:
     events = json.load(event_file)
