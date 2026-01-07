@@ -100,8 +100,8 @@ svarer.
     </tr>
     <tr>
       <td>Nestleder</td>
-      <td>Oliver Ruste Jahren</td>
-      <td><a href="https://personer.uio.no/oliverrj">oliverrj</a></td>
+      <td><i>Ubesatt</i></td>
+      <td><a href="https://personer.uio.no/ubesatt">ubesatt</a></td>
     </tr>
     <tr>
       <td>Økonomiansvarlig</td>
