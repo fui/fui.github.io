@@ -5,6 +5,8 @@ on:
     branches: [master]
   pull_request:
   workflow_dispatch:
+  schedule:
+    - cron: 0 2 * * *
 
 permissions:
   contents: read
