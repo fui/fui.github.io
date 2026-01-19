@@ -8,8 +8,6 @@ semester: Høst 2025
 members:
   - name: Sapnil Aditya Ayman
     uioid: sapnilaa
-  - name: Jonas Frømyr Evang
-    uioid: jonasfev
   - name: Julie Grihamar
     uioid: juliegri
   - name: Helene Nordrum Grun
@@ -95,13 +93,13 @@ svarer.
   <tbody>
     <tr>
       <td>Leder</td>
-      <td>Bashir Ahmad Atal</td>
-      <td><a href="https://personer.uio.no/bashiraa">bashiraa</a></td>
+      <td>Oliver Ruste Jahren</td>
+      <td><a href="https://personer.uio.no/oliverrj">oliverrj</a></td>
     </tr>
     <tr>
       <td>Nestleder</td>
-      <td><i>Ubesatt</i></td>
-      <td><a href="https://personer.uio.no/ubesatt">ubesatt</a></td>
+      <td>Jonas Frømyr Evang</td>
+      <td><a href="https://personer.uio.no/jonasfev">jonasfev</a></td>
     </tr>
     <tr>
       <td>Økonomiansvarlig</td>
