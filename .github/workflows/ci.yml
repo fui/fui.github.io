@@ -18,7 +18,18 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  fetch-events:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch events from Peoply API
+        run: node .github/fetch-events.js
+      
+      - name: Check if a newer event is published
+        run: node .github/check-events.js
+
   build:
+    if: github.event_name != 'schedule'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -62,7 +73,8 @@ jobs:
     needs: build
     if: >-
       github.event_name == 'push' &&
-      (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+      (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master') &&
+      github.event_name != 'schedule'
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

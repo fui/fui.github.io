@@ -9,6 +9,20 @@ const params = new URLSearchParams({
 });
 
 const url = `${peoplyUrl}?${params}`;
+let event;
+
+// Checks if a new event has occured in Peoply:
+const hasNewEvent = (event) => {
+  console.log("Fetched latest event:", event);
+
+  const currentDate = new Date().toLocaleString("no-NB", { timeZone: "Europe/Oslo" });
+  const eventDate = new Date(event.startDate).toLocaleString("no-NB", { timeZone: "Europe/Oslo" });
+
+  console.log("Current: ", currentDate);
+  console.log("Event: ", eventDate);
+
+  return currentDate < eventDate;
+};
 
 fetch(url)
   .then((res) => res.json())
@@ -25,8 +39,14 @@ fetch(url)
 
     fs.writeFileSync("_data/events.json", JSON.stringify(updatedData, 2));
     console.log("Events written to _data/events.json");
+
+    // Get first event from Peoply as events are ordered by date
+    const values = Object.values(updatedData);
+    event = values[0];
+    hasNewEvent(event);
   })
   .catch((err) => {
     console.error("Failed to fetch events:", err);
     process.exit(1);
   });
+
