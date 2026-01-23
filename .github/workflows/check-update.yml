@@ -5,9 +5,9 @@ permissions:
   actions: write
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 2 * * *"
-  workflow_dispatch:
 
 jobs:
   check-events:
@@ -28,7 +28,7 @@ jobs:
         continue-on-error: true
 
       - name: Trigger main build workflow
-        if: steps.check.outcome == 'failure'
+        if: steps.check.conclusion == 'failure'
         uses: benc-uk/workflow-dispatch@v1
         with:
           workflow: Build and Deploy Jekyll site
