@@ -52,7 +52,7 @@ fetch(url)
     fs.writeFileSync("_data/events.json", JSON.stringify(updatedData, 2));
     // console.log("Events written to _data/events.json");
 
-    process.exit(1);
+    process.exit(0);
   })
   .catch((err) => {
     console.error("Failed to fetch events:", err);
