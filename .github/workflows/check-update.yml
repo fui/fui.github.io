@@ -1,35 +1,35 @@
 name: Check for new events on Peoply
 
 permissions:
-    contents: read
-    actions: write
+  contents: read
+  actions: write
 
 on:
-    schedule:
-        - cron: 0 2 * * *
-    workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
 
 jobs:
-    check-events:
-        runs-on: ubuntu-latest
+  check-events:
+    runs-on: ubuntu-latest
 
-        steps:
-        - name: Checkout
-          uses: actions/checkout@v4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-        - name: Setup Node
-          uses: actions/setup-node@v4
-          with:
-            node-version: "18"
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
 
-        - name: Run Peoply event check
-          id: check
-          run: node .github/fetch-events.js
-          continue-on-error: true
+      - name: Run Peoply event check
+        id: check
+        run: node .github/fetch-events.js
+        continue-on-error: true
 
-        - name: Trigger main build workflow
-          if: steps.check.outcome == 'failure'
-          uses: benc-uk/workflow-dispatch@v1
-          with:
-            workflow: Build and Deploy Jekyll site
-            ref: test-workflow
+      - name: Trigger main build workflow
+        if: steps.check.outcome == 'failure'
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: Build and Deploy Jekyll site
+          ref: test-workflow
