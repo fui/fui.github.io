@@ -49,7 +49,7 @@ fetch(url)
       return {...event, startDate: updatedStartDate };
     })
 
-    fs.writeFileSync("_data/events.json", JSON.stringify(updatedData, 2));
+    fs.writeFileSync("_data/events.json", JSON.stringify(updatedData, null, 2));
     // console.log("Events written to _data/events.json");
 
     process.exit(1);
