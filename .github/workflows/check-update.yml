@@ -32,4 +32,4 @@ jobs:
           uses: benc-uk/workflow-dispatch@v1
           with:
             workflow: Build and Deploy Jekyll site
-            ref: periodic-redeployment
+            ref: test-workflow
