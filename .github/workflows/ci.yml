@@ -29,6 +29,7 @@ jobs:
 
       - name: Fetch Events from Peoply API
         run: node .github/fetch-events.js
+        continue-on-error: true
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
