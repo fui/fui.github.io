@@ -20,7 +20,7 @@ if (fs.existsSync(eventIdFile)) {
 fetch(url)
   .then((res) => res.json())
   .then((data) => {
-    // console.log("Fetched events:", data);
+    console.log("Fetched events:", data);
 
     if (!data || data.length === 0) {
       console.log("No data returned from Peoply.")
@@ -50,8 +50,7 @@ fetch(url)
     })
 
     fs.writeFileSync("_data/events.json", JSON.stringify(updatedData, null, 2));
-    // console.log("Events written to _data/events.json");
-
+    console.log("Events written to _data/events.json");
     process.exit(1);
   })
   .catch((err) => {
