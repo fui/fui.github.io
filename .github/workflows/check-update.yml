@@ -1,5 +1,9 @@
 name: Check for new events on Peoply
 
+permissions:
+    contents: read
+    actions: write
+
 on:
     schedule:
         - cron: 0 2 * * *
