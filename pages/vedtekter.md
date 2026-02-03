@@ -26,7 +26,7 @@ En IFI-student defineres som en programstudent ved IFI v/UiO, eller en student s
 #### **§2 Styret**
 
 1. Styret består av 8-13 personer.
-2. Styret skal bestå av Leder, Nestleder og Økonomiansvarlig, PR-ansvarlig, Arrangementsansvarlig, Kursansvarlig, Web-ansvarlig og Skapansvarlig. Samme person kan ikke inneha mer enn ett av disse vervene.
+2. Styret skal bestå av Leder, Nestleder og Økonomiansvarlig, PR-ansvarlig, Kursevalueringsansvarlig og Bokskapansvarlig. Samme person kan ikke inneha mer enn ett av disse vervene.
 3. Andre roller kan opprettes av styret ved behov. Hvis komposisjonen av styret ikke følger §2.1 og §2.2 skal det prøves løst ved etterfylling innen neste styremøte. Hvis det ikke løses må det kalles inn til ekstraordinær generalforsamling.
 4. Leder alene, og to styremedlemmer i fellesskap har signaturrett.
 5. Styret er vedtaksdyktig når minst halvparten av medlemmene er til stede.
