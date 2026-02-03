@@ -18,10 +18,10 @@ En IFI-student defineres som en programstudent ved IFI v/UiO, eller en student s
 #### **§1 Formål**
 
 1. {{ site.full_name }}, heretter referert til som “FUI”, har
-til formål å ivareta og fremme interessene til studentene ved Institutt for
-informatikk ved Universitet i Oslo, heretter referert til som “IFI”. Dette inkluderer, men er ikke begrenset
-til, faglig og sosiale forhold opp mot instituttets ledelse, fakultetet og
-Universitetet i Oslo, herretter referert til som “UiO”.
+   til formål å ivareta og fremme interessene til studentene ved Institutt for
+   informatikk ved Universitet i Oslo, heretter referert til som “IFI”. Dette inkluderer, men er ikke begrenset
+   til, faglig og sosiale forhold opp mot instituttets ledelse, fakultetet og
+   Universitetet i Oslo, herretter referert til som “UiO”.
 
 #### **§2 Styret**
 
@@ -43,19 +43,19 @@ Universitetet i Oslo, herretter referert til som “UiO”.
 1. Foreningen skal så langt det er mulig vurdere miljømessige og etiske hensyn i planleggingen av aktiviteter.
 2. Skjer kritikkverdige forhold i foreningen eller under foreningens arrangementer så kan dette varsles i henhold til varslingsrutiner.
 3. Foreningen skal ha en oppdatert varslingsplakat, varslingsrutiner og etiske retningslinjer som alle medlemmer skal være kjent med.
-4. I tillegg må dere ha en paragraf om sanksjoner slik at det kort er beskrevet hva som kan bli konsekvensene ved brudd på vedtekter eller retningslinjer.  
+4. I tillegg må dere ha en paragraf om sanksjoner slik at det kort er beskrevet hva som kan bli konsekvensene ved brudd på vedtekter eller retningslinjer.
 
 #### **§4 Sanksjoner**
 
 1. Ved brudd på norsk lov, foreningens vedtekter eller retningslinjer kan styret ilegge sanksjoner mot det aktuelle medlemmet.
-2. Sanksjoner kan inkludere, men er ikke begrenset til, advarsler, midlertidig suspensjon av medlemsrettigheter, eller i alvorlige tilfeller, eksklusjon fra foreningen. 
+2. Sanksjoner kan inkludere, men er ikke begrenset til, advarsler, midlertidig suspensjon av medlemsrettigheter, eller i alvorlige tilfeller, eksklusjon fra foreningen.
 3. Alle sanksjoner skal besluttes av styret med et kvalifisert flertall på minst to tredjedeler.
 4. Vedtak av sanksjoner kan ankes til styret for ny behandling av saken.
 
 #### **§5 Generalforsamling**
 
 1. Generalforsamlingen er foreningens høyeste organ. Den er beslutningsdyktig når minst 25 IFI-studenter er til stede.
-2. Styret kaller inn til generalforsamling. Innkallingen skal komme minmum to uker før  ordinær generalforsamling, og minnimum en uke før for ekstraordinær generalforsamling
+2. Styret kaller inn til generalforsamling. Innkallingen skal komme minmum to uker før ordinær generalforsamling, og minnimum en uke før for ekstraordinær generalforsamling
 3. Ekstraordinær generalforsamling avholdes når styret, eller når minst 25 IFI-studenter ved skriftlig krav krever dette.
 4. Ordinær generalforsamling avholdes i begynnelsen av hvert semester. De nyvalgte tiltrer umiddelbart.
 5. Forslag til vedtektsendringer og andre saker som ønskes tatt opp på generalforsamling skal være styret i hende minimum 48 timer før generalforsamlingen.
@@ -78,6 +78,6 @@ Universitetet i Oslo, herretter referert til som “UiO”.
 #### **§8 Oppløsning**
 
 1. Forslag om å oppløse FUI skal vedtas ved ¾ flertall blant de fremmøtte
-stemmeberettigede på to påfølgende ordinære generalforsamlinger.
+   stemmeberettigede på to påfølgende ordinære generalforsamlinger.
 2. Ved oppløsning skal FUIs økonomiske midler og eiendeler overføres til
-IFI. Disse midlene skal øremerkes et nytt utvalg ved IFI slik som definert i [universitets- og høyskoleloven §10-11](https://lovdata.no/lov/2024-03-08-9/§10-11) og [Retningslinjene for studentmedvirkning ved UiO](https://www.uio.no/om/regelverk/studier/studentmedvirkning/).
+   IFI. Disse midlene skal øremerkes et nytt utvalg ved IFI slik som definert i [universitets- og høyskoleloven §10-11](https://lovdata.no/lov/2024-03-08-9/§10-11) og [Retningslinjene for studentmedvirkning ved UiO](https://www.uio.no/om/regelverk/studier/studentmedvirkning/).
