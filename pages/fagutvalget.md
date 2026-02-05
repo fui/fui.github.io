@@ -4,20 +4,20 @@ title: Om FUI
 permalink: /fagutvalget/
 modeline: " vim: set spl=nb: "
 
-semester: Høst 2025
+semester: Vår 2026
 members:
+  - name: Thor Oscar Akre
+    uioid: thoroak
   - name: Sapnil Aditya Ayman
     uioid: sapnilaa
+  - name: Bashir Ahmad Atal
+    uioid: bashiraa
+  - name: Jonas Frømyr Evang
+    uioid: jonasfev
   - name: Julie Grihamar
     uioid: juliegri
-  - name: Helene Nordrum Grun
-    uioid: helenng
-  - name: Liza Nagmadin Karim
-    uioid: lizana
-  - name: Tina Olguin
-    uioid: tinaolg
-  - name: Peter Hjelle Petersen-Øverleir
-    uioid: peterhp
+  - name: Hanne Alexandersdatter Hugem
+    uioid: hanneahu
   - name: Vårin Sørlie
     uioid: vaarinso
   - name: Ka Thas
@@ -93,18 +93,18 @@ svarer.
   <tbody>
     <tr>
       <td>Leder</td>
-      <td>Oliver Ruste Jahren</td>
-      <td><a href="https://personer.uio.no/oliverrj">oliverrj</a></td>
+      <td>Liza Nagmadin Karim</td>
+      <td><a href="https://personer.uio.no/lizana">lizana</a></td>
     </tr>
     <tr>
       <td>Nestleder</td>
-      <td>Jonas Frømyr Evang</td>
-      <td><a href="https://personer.uio.no/jonasfev">jonasfev</a></td>
+      <td>Peter Hjelle Petersen-Øverleir</td>
+      <td><a href="https://personer.uio.no/peterhp">peterhp</a></td>
     </tr>
     <tr>
       <td>Økonomiansvarlig</td>
-      <td>Silje Helgesen</td>
-      <td><a href="https://personer.uio.no/siljhelg">siljhelg</a></td>
+      <td><i>Ubesatt</i></td>
+      <td><a href="https://personer.uio.no/nobody">nobody</a></td>
     </tr>
   </tbody>
 </table>
