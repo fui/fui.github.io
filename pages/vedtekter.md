@@ -7,7 +7,7 @@ modeline: " vim: set spl=nb: "
 
 # Vedtekter
 
-Endringer vedtatt på felles generalforsamling for foreninger ved IFI 14.03.2025
+Endringer vedtatt på generalforsamling 05.02.2026
 
 ---
 
