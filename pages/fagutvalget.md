@@ -8,8 +8,6 @@ semester: Vår 2026
 members:
   - name: Thor Oscar Akre
     uioid: thoroak
-  - name: Sapnil Aditya Ayman
-    uioid: sapnilaa
   - name: Bashir Ahmad Atal
     uioid: bashiraa
   - name: Jonas Frømyr Evang
@@ -103,8 +101,8 @@ svarer.
     </tr>
     <tr>
       <td>Økonomiansvarlig</td>
-      <td><i>Ubesatt</i></td>
-      <td><a href="https://personer.uio.no/nobody">nobody</a></td>
+      <td>Erlend Evjen Bleivik</td>
+      <td><a href="https://personer.uio.no/erlenebl">erlenebl</a></td>
     </tr>
   </tbody>
 </table>
