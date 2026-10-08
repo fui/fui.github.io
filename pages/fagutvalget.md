@@ -24,6 +24,8 @@ members:
     uioid: heddacr
   - name: Lars Allergoth
     uioid: larsall
+  - name: Juliana Heggen
+    uioid: juliaheg
 
 ---
 
