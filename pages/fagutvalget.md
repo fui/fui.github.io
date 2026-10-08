@@ -16,12 +16,14 @@ members:
     uioid: juliegri
   - name: Hanne Alexandersdatter Hugem
     uioid: hanneahu
-  - name: Vårin Sørlie
-    uioid: vaarinso
-  - name: Ka Thas
-    uioid: kavint
-  - name: Nha Benjamin Dang Tong
-    uioid: nbtong
+  - name: Liza Nagmadin Karim
+    uioid: lizana
+  - name: Ingrid Nyland Løvall
+    uioid: ingrinl
+  - name: Hedda Crosby
+    uioid: heddacr
+  - name: Lars Allergoth
+    uioid: larsall
 
 ---
 
@@ -91,8 +93,8 @@ svarer.
   <tbody>
     <tr>
       <td>Leder</td>
-      <td>Liza Nagmadin Karim</td>
-      <td><a href="https://personer.uio.no/lizana">lizana</a></td>
+      <td>Erlend Evjen Bleivik</td>
+      <td><a href="https://personer.uio.no/erlenebl">erlenebl</a></td>
     </tr>
     <tr>
       <td>Nestleder</td>
@@ -101,8 +103,8 @@ svarer.
     </tr>
     <tr>
       <td>Økonomiansvarlig</td>
-      <td>Erlend Evjen Bleivik</td>
-      <td><a href="https://personer.uio.no/erlenebl">erlenebl</a></td>
+      <td>Birk Martin Svensen</td>
+      <td><a href="https://personer.uio.no/erlenebl">birkms</a></td>
     </tr>
   </tbody>
 </table>
